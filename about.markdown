@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## TO DO LIST:
+**TO DO LIST:**
 * Figure out why the CRISPR experiment is not working 
 * Figure out the wierd behavior with pyfirmata
 * Write a blog post comparing VMD, alphafold, TTFold history of solving protein folding problem, submit to hackernews
@@ -15,7 +15,7 @@ permalink: /about/
 
 &nbsp;&nbsp;
 
-## RANDOM IDEAS:
+**RANDOM IDEAS:**
 * NLP project with a lex friedman podcast
 * biohacking community as a neighborhood watch rather than restricting like CA
 * youtube channel going over the the Odin Bioengineering 101 content in a much more digestable way, videos going through each experiment step-by-step with pointers would be nice
@@ -25,7 +25,7 @@ permalink: /about/
 &nbsp;&nbsp;
 
 
-## QUESTIONS:
+**QUESTIONS:**
 * Do octopuses have multiple consciousnesses?
     * Tentacles are able to make decisions on their own!
 * Humans used to have a high emphasis on spatial awareness. (placement of windows/furniture in Chinese homes, church design) Now we understand the world through abstractions with linguistics. Is that progress or just another way of interacting/understanding the world?
