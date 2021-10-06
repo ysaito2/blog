@@ -11,7 +11,7 @@ permalink: /about/
 * Built engineering workstation / post procedures+built for future reference
 * Blog post researching bio-safety
 * Built a good encubator using smartphone and arduino 
-* 
+* Paper reviews of interesting DeepMind papers
 
 &nbsp;&nbsp;
 
@@ -20,7 +20,8 @@ permalink: /about/
 * biohacking community as a neighborhood watch rather than restricting like CA
 * youtube channel going over the the Odin Bioengineering 101 content in a much more digestable way, videos going through each experiment step-by-step with pointers would be nice
 * clean online guide for biohacking 
-* 
+* jobs being taken over by women, not AI 
+* machine learning as compression, basic 
 
 &nbsp;&nbsp;
 
