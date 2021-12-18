@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Are AIs really smart"
+date:   2021-11-11
+categories: Companies
+---
+
+Show a picture of a rubber band to a state-of-the-art image recognition algorithm. Can it tell you whether its something to pull instead of push? Nope, but my 6 month old niece can figure that out. (case pointed out by Marvin Minsky)
+
+&nbsp;&nbsp;
+
+Now show the same algorithm a photo of a bottle of gorilla glue and duck tape. Which would you give to a five year old? The AI will again struggle with this most basic question. (The correct answer is neither, but duck tape is definetely easier to clean up later) 
+
+&nbsp;&nbsp;
+
+All current AI algorithms are fundamentally based on statistics, whether they are RNN, GaN, . What's the most likely choice 
+
+&nbsp;&nbsp;
