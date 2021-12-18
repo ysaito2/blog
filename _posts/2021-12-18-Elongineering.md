@@ -5,7 +5,11 @@ date:   2021-12-18
 categories: Companies
 ---
 
-Elon Musk has figured out a systematic method for solving audacious problems by building organizations and technologies. I believe this is the single characteristic that differentiates Elon from any other prominent entrepreneurs in the past (and current). Its difficult to imagine Bezos or Zuckerburg building another multi-billion dollar business from scratch, even though both are young enough (with enough vigor) to go through the arduous task. As for Elon, if you extend his lifespan by an extra 50 years, its easy to imagine him pumping out at least 2 or 3 more multi-billion dollar busineses. Another 100 years, he will have at least another 10 more. I believe the reader will agree this isn't a preposterous statement. 
+Elon Musk has figured out a systematic method for solving audacious problems by building organizations and technologies. 
+
+&nbsp;&nbsp;
+
+I believe this is the single characteristic that differentiates Elon from any other prominent entrepreneurs in the past (and current). Its difficult to imagine Bezos or Zuckerburg building another multi-billion dollar business from scratch, even though both are young enough (with enough vigor) to go through the arduous task. As for Elon, if you extend his lifespan by an extra 50 years, its easy to imagine him pumping out at least 2 or 3 more multi-billion dollar busineses. Another 100 years, he will have at least another 10 more. I believe the reader will agree this isn't a preposterous statement. 
 
 &nbsp;&nbsp;
 
@@ -21,7 +25,7 @@ As I repeatedly write above, it is a *systematic* approach to building companies
 
 &nbsp;&nbsp;
 
-How do we study Elongineering? As starters, there is a great book by Eric Berger "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX" that covered, well as the title says the early days of SpaceX. (Good old America, the land of entertainment, the first question Eric recieved after publishing the book was "Have you already sold the movie rights for the book?") There is also video by Everyday Astraunaut on youtube explaining the engineering decisions made for the development of the Merlin and Raptor engines. Both are great resources to start studying how Elon builds technology and companies.  
+How do we study Elongineering? As starters, there is a great book by Eric Berger "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX" that covered, well as the title says the early days of SpaceX. There is also a great video by Everyday Astraunaut on [youtube](https://www.youtube.com/c/EverydayAstronaut) explaining the engineering decisions made for the development of the Merlin and Raptor engines. Both are great resources to start studying how Elon builds technology and companies.  
 
 &nbsp;&nbsp;
 
