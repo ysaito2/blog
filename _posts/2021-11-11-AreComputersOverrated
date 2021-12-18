@@ -2,7 +2,7 @@
 layout: post
 title:  "Are AIs really smart"
 date:   2021-11-11
-categories: Companies
+categories: Technology
 ---
 
 Show a picture of a rubber band to a state-of-the-art image recognition algorithm. Can it tell you whether its something to pull instead of push? Nope, but my 6 month old niece can figure that out. (case pointed out by Marvin Minsky)
@@ -13,6 +13,6 @@ Now show the same algorithm a photo of a bottle of gorilla glue and duck tape. W
 
 &nbsp;&nbsp;
 
-All current AI algorithms are fundamentally based on statistics, whether they are RNN, GaN, . What's the most likely choice 
+All current AI algorithms are fundamentally based on statistics. Given what's the most likely choice 
 
 &nbsp;&nbsp;
