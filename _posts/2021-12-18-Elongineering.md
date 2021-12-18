@@ -9,7 +9,7 @@ Elon Musk has figured out a systematic method for solving audacious problems by 
 
 &nbsp;&nbsp;
 
-I believe this is the single characteristic that differentiates Elon from any other prominent entrepreneurs in the past (and current). Its difficult to imagine Bezos or Zuckerburg building another multi-billion dollar business from scratch, even though both are young enough (with enough vigor) to go through the arduous task. As for Elon, if you extend his lifespan by an extra 50 years, its easy to imagine him pumping out at least 2 or 3 more multi-billion dollar busineses. Another 100 years, he will have at least another 10 more. I believe the reader will agree this isn't a preposterous statement. 
+I believe this is the single characteristic that differentiates Elon from any other prominent entrepreneurs in the past (and current). Its difficult to imagine Bezos or Zuckerburg building another multi-billion dollar business from scratch, even though both are young (with enough vigor) to go through the arduous task. As for Elon, if you extend his lifespan by an extra 50 years, its easy to imagine him pumping out at least 2 or 3 more multi-billion dollar busineses. Another 100 years, he will have at least another 10 more. I believe the reader will agree this isn't a preposterous statement. 
 
 &nbsp;&nbsp;
 
@@ -21,15 +21,15 @@ So what exactly is "Elongineering"?
 
 &nbsp;&nbsp;
 
-As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. Hence, its not dependent on the skills, history, and blind luck of the individual. You don't have to be a programmer in Harvard who happened to be hired part-time to build a social media platform. You don't have to be a consultant who saw the potential of the internet at her infancy. Following the principles, anyone should be able tackle difficult problems by dissecting the problem and solving the immediate problems one-by-one. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise enough money from investors. 
+As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. Hence, its not dependent on the skills, history, and blind luck of the individual. You don't have to be a programmer in Harvard who happened to be hired part-time to build a social media platform. You don't have to be a consultant who saw the potential of the internet at her infancy. Following the principles, anyone should be able tackle difficult problems by dissecting the problem and solving the immediate problems one-by-one. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors. 
 
 &nbsp;&nbsp;
 
-How do we study Elongineering? As starters, there is a great book by Eric Berger "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX" that covered, well as the title says the early days of SpaceX. There is also a great video by Everyday Astraunaut on [youtube](https://www.youtube.com/c/EverydayAstronaut) explaining the engineering decisions made for the development of the Merlin and Raptor engines. Both are great resources to start studying how Elon builds technology and companies.  
+How do we study Elongineering? As starters, there is a great book by Eric Berger "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX" that covers, well as the title says the early days of SpaceX. There is also a great video by Everyday Astraunaut on [youtube](https://www.youtube.com/c/EverydayAstronaut) explaining the engineering decisions made for the development of the Merlin and Raptor engines. Both are great resources to start studying how Elon builds technology and companies.  
 
 &nbsp;&nbsp;
 
-I also found that following the ongoing trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the white paper published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and what method they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
+I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the white paper published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and what method they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
 
 &nbsp;&nbsp;
 
@@ -53,7 +53,7 @@ And how do we prove "Elongineering" is even a concept to take seriously? Isn't E
 
 &nbsp;&nbsp;
 
-This is a fun thinking excercise: what if a Elon Musk style business immerges from a country outside of Western civilization, like I don't know, Japan? The company will set out on a audacious goal and systematically solve engineering problems following the "Elongineering" principles. It can be started by someone who isn't a dropout from the most prestigious universities in the US. 
+This is a fun thinking excercise: what if a Elon Musk style business immerges from a country outside of Western civilization, like I don't know, Japan? The company will set out on an audacious goal and systematically solve engineering problems following the "Elongineering" principles. It can be started by someone who isn't a dropout from the most prestigious universities in the US. 
 
 &nbsp;&nbsp;
 

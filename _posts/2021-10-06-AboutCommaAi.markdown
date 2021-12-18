@@ -13,7 +13,7 @@ Founded in 2015 by George Hotz, the company design/built/sells electronic hardwa
 
 &nbsp;
 
-I learned about comma when I was doing research in the autonomous driving space sometime around 2019. I remember it left an impression on me since the company was taking a radically different approach from any other company that I looked into. I was also shocked that an autonomous driving company would open source their software; it felt like a magician spoiling all his tricks throughout the show. (I didn't know Penn and Teller back then!) I was also skeptical that someone can attach a smartphone-size device, priced at $1000 (for the early comma), on their dashboard and make it drive itself, while other companies were pouring in BILLIONS of $$$ to do the same thing. Boy was I wrong. 
+I learned about comma when I was doing research in the autonomous driving space sometime around 2019. I remember it left an impression since the company was taking a radically different approach from any other company that I looked into. I was also shocked that an autonomous driving company would open source their software; it felt like a magician spoiling all his tricks throughout the show. (I didn't know Penn and Teller back then!) I was also skeptical that someone can attach a smartphone-size device, priced at $1000 (for the early comma), on their dashboard and make it drive itself, while other companies were pouring in BILLIONS of $$$ to do the same thing. Boy was I wrong. 
 
 &nbsp;
 
@@ -21,7 +21,7 @@ I want to first point out to my past-self that POURING MONEY INTO A PROJECT MEAN
 
 &nbsp;
 
-In contrast to the Wright brothers is Samuel Langley, a professor of astronomy at the University of Pittsburgh. An aviation fanatic, he eventually built a plane that can fly, but the pilot had no means of controlling the plane, unlike the Wright brothers who invented the 3-axis control system which adopted by all subsequent planes. Also, he spent roughly $300,000 (also at early 20th century value!). This is the reason why NASA named a research center in his honor and not a single center is named after the two nobodies from Ohio. 
+In contrast to the Wright brothers is Samuel Langley, a professor of astronomy at the University of Pittsburgh. An aviation fanatic, he eventually built a plane that can fly, but the pilot had no means of controlling the plane, unlike the Wright brothers who invented the 3-axis control system which was adopted by all subsequent planes. Also, he spent roughly $300,000 (also at early 20th century value!). This is the reason why NASA named a research center in his honor and not a single center is named after the two nobodies from Ohio. 
 
 &nbsp;
 
