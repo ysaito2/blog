@@ -46,7 +46,7 @@ But here’s another thing you should know about Billy Durant: he was a *horribl
 &nbsp;&nbsp;
 
 
-Putin is also described as a terrible administrator, but somewhat different from Durant. Everything has to be approved by him; people line up in front of his office for hours just to talk to him. Since he prefers to start his day late (waking up at 8:30AM and kicking off his day with a long gym session), he will have meetings late at night, sometimes at 1AM in the morning. He uses public shaming of his cabinet members as a tool to push the blame of failed projects away from him.
+Putin is also described as a terrible administrator, but somewhat different from Durant. Everything has to be approved by him; people line up in front of his office for hours. Since he prefers to start his day late (waking up at 8:30AM and kicking off his day with a long gym session), he will have meetings regularly late at night, sometimes at 1AM in the morning. He uses public shaming of his cabinet members as a tool to push the blame of failed projects away from him.
 
 
 &nbsp;&nbsp;
