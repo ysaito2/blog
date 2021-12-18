@@ -29,7 +29,7 @@ How do we study Elongineering? As starters, there is a great book by Eric Berger
 
 &nbsp;&nbsp;
 
-I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the white paper published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and what method they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
+I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the white paper published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and the methods they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
 
 &nbsp;&nbsp;
 
@@ -41,7 +41,7 @@ So why is it important to put "Elongineering" on the dictionary? Its not for the
 
 &nbsp;&nbsp;
 
-The implications of the widespread recognition of "Elongineering" across the world would be interesting. There should be a surge of Elon Musk-style businesses around the world taking a highly effective approach to solving challenging global problems. Humanity can keep on pushing the frontier long after Elon Musk is gone. The future seems exciting and bright. 
+The implication of the widespread recognition of "Elongineering" across the world would be interesting. There should be a surge of Elon Musk-style businesses around the world taking a highly effective approach to solving challenging global problems. Humanity can keep on pushing the frontier long after Elon Musk is gone. The future seems exciting and bright. 
 
 &nbsp;&nbsp;
 
@@ -57,7 +57,7 @@ This is a fun thinking excercise: what if a Elon Musk style business immerges fr
 
 &nbsp;&nbsp;
 
-And man, wouldn't it be crazy if this company is massively successful? Then, the company can document and eventually publish the process of solving challenges it encountered as it build its own technology and organization. Future entreprenuers around the world will study the methodology and apply it to their own audacious problems. Hundreds of super effective companies/organizations solving urgent local and global problems. Some of them will be pushing the frontiers of humanity. 
+And man, wouldn't it be crazy if this company is massively successful? It would be a living proof that "Elongineering" can be applied by companies anywhere around the world. Then, the company can document and eventually publish the process of solving challenges it encountered as it build its own technology and organization. Future entreprenuers around the world will study the methodology and apply it to their own audacious problems. Thousands of super effective companies/organizations solving urgent local and global problems. Some of them will be pushing the frontiers of humanity. 
 
 &nbsp;&nbsp;
 

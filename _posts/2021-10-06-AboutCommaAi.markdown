@@ -33,7 +33,11 @@ So what makes comma.ai special?
 
 &nbsp;
 
-First, its their technology. Comma has defined self-driving as a system which, given a scene from the dashboard, the car places itself where a human driver would most likely drive. This approach is quite different from Tesla that tries to label and feed information of the environment to "robotically" steer the car such that there is no conflict in pathways with nearby cars. The difference in the approach stems from Tesla approaching self-driving as an robotics path optimization problem, while comma approaches it as a data-centric statistics problem. Its worth noting here that the number of employees between the two companies are *vastly* different (Tesla: 70,700 vs comma: 20-ish) that Tesla's approach requiring large number of man hours and infrastructure for data labeling just isn't viable for a small company like comma. Doing a deep-dive in the difference in engineering decisions made in the two companies would be super interesting, but I currently don't have the expertise to run such a rigorous analysis. Personally, I feel Tesla is trying to solve full-self driving as quick as possible, while comma seems to be taking time to building a more natural-feeling system for the driver (hence, their slogan "make driving chill"). Both companies are pursing an end-to-end solution based on vision only. Both are building what users *really* want. But it seems they have defined their users' needs differently. 
+First, its their technology. Comma has defined self-driving as a system which, given a scene from the dashboard, the car places itself where a human driver would most likely drive. This approach is different from Tesla that labels and feeds information of the environment to "robotically" steer the car such that there is no conflict in pathways with nearby cars. The difference in the approach stems from Tesla approaching self-driving as an robotics path optimization problem, while comma approaches it as a data-centric statistics problem. Its worth noting here that the number of employees between the two companies are *vastly* different (Tesla: 70,700 vs comma: 20-ish) that Tesla's approach requiring large number of man hours and infrastructure for data labeling just isn't viable for a small company like comma. 
+
+&nbsp;
+
+Doing a deep-dive in the difference in engineering decisions made in the two companies would be super interesting, but I currently don't have the expertise to run such a rigorous analysis. Personally, I feel Tesla is trying to solve full-self driving as quickly as possible, while comma seems to be taking time to building a more natural-feeling system for the driver (hence, their slogan "make driving chill"). Both companies are pursing an end-to-end solution based on vision only. Both are building what users *really* want. But it seems they have defined their users' needs differently. 
 
 &nbsp;
 
@@ -41,7 +45,7 @@ Second, its their business model. Tesla sells their car and the self-driving sys
 
 &nbsp;
 
-Its also worth noting that their decision to open source their software doesn't impede their business but rather enhances it. The comma team only supports the top five car models; all other models that they support, totalling 130, is done by the community of users. If a car model is not supported, a user can use a tool provided by comma to add support, which will be shared with the entire community. Understanding their business deeper, it wouldn't make sense *not* to open source their software. 
+Its also worth noting that comma's decision to open source their software doesn't impede their business but rather enhances it. The comma team only supports the top five car models; all other models that they support, totalling 130, is done by the community of users. If a car model is not supported, a user can use a tool provided by comma to add support, which will be shared with the entire community. Understanding their business deeper, it wouldn't make sense *not* to open source their software. 
 
 &nbsp;
 
@@ -49,4 +53,12 @@ Not to mention that robo-taxis are a horrible business model. A fleet of self-dr
 
 &nbsp;
 
-My point of this post is that I think comma.ai should be studied as a textbook example of how to build a great company. **Everything about the company makes sense!** How the technology and business model come together enhancing each other. Delivering products to customers and investing revenue to build something better. How a small team can take on a hard technical challenge by taking a clever approach. Create an environment where you can focus on solving problems that matter. Avoid solving problems that don't have to solved. The shortest path to solving big problems is by generating revenue and scaling. And if you need to borrow a billion $$$ to generate revenue, you are probably wrong in a big way. 
+My point of this post is that I think comma.ai should be studied as a textbook example of how to build a great company. **Everything about the company makes sense!** How the technology and business model come together enhancing each other. How to build something better by delivering products to customers and investing revenue. How a small team can take on a hard technical challenge by taking a clever approach. 
+
+&nbsp;
+
+So here's the takeaway: create an environment where you can focus on solving problems that matter. Avoid solving problems that don't have to solved. The shortest path to solving big problems is by generating revenue and scaling. 
+
+&nbsp;
+
+And if you need to borrow billions of $$$ to generate revenue, you are probably wrong in a big way. 
