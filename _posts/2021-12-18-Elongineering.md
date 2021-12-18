@@ -17,7 +17,7 @@ So what exactly is "Elongineering"?
 
 &nbsp;&nbsp;
 
-As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. Its not dependent on the skills, history, and blind luck of the individual. You don't have to be in programmer in Harvard who happened to be hired part-time to build a social media platform. You don't have to be a consultant who saw the potential of the internet at her infancy. Following the principles, anyone should be able tackle difficult problems by dissecting the problem and solving the immediate problems one-by-one. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors. 
+As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. Hence, its not dependent on the skills, history, and blind luck of the individual. You don't have to be a programmer in Harvard who happened to be hired part-time to build a social media platform. You don't have to be a consultant who saw the potential of the internet at her infancy. Following the principles, anyone should be able tackle difficult problems by dissecting the problem and solving the immediate problems one-by-one. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors. 
 
 &nbsp;&nbsp;
 
@@ -25,7 +25,7 @@ How do we study Elongineering? As starters, there is a great book by Eric Berger
 
 &nbsp;&nbsp;
 
-I also found that following the ongoing trajectory of Neurolink is a great resource for studying how Elon builds companies. Starting from the white paper published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and what method they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
+I also found that following the ongoing trajectory of Neurolink is a great resource. Starting from the white paper published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and what method they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
 
 &nbsp;&nbsp;
 
@@ -49,11 +49,11 @@ And how do we prove "Elongineering" is even a concept to take seriously? Isn't E
 
 &nbsp;&nbsp;
 
-This is a fun thinking excercise: what if a Elon Musk style business immerges from a country outside of West civilization, like I don't know, Japan? The company will set out on a audacious goal and systematically solve engineering problems following the "Elongineering" principles. It can be started by someone who isn't a drop-out from the most prestigious universities in the US. 
+This is a fun thinking excercise: what if a Elon Musk style business immerges from a country outside of Western civilization, like I don't know, Japan? The company will set out on a audacious goal and systematically solve engineering problems following the "Elongineering" principles. It can be started by someone who isn't a dropout from the most prestigious universities in the US. 
 
 &nbsp;&nbsp;
 
-And man, wouldn't it be crazy if this company is massively successful? Then, the company can document and eventually publish the process of solving challenges it encountered as it build its own technology and organization. Future entreprenuers around the world will study the methodology and apply it to their own audacious problems that need to be solved. Hundreds of super effective companies/organizations solving urgent local and global problems. Some of them will be pushing the frontiers of humanity. 
+And man, wouldn't it be crazy if this company is massively successful? Then, the company can document and eventually publish the process of solving challenges it encountered as it build its own technology and organization. Future entreprenuers around the world will study the methodology and apply it to their own audacious problems. Hundreds of super effective companies/organizations solving urgent local and global problems. Some of them will be pushing the frontiers of humanity. 
 
 &nbsp;&nbsp;
 
