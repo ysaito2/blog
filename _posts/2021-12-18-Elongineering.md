@@ -37,7 +37,7 @@ I'm having trouble finding great resources for Tesla, and other "smaller" projec
 
 &nbsp;&nbsp;
 
-So why is it important to put "Elongineering" on the dictionary? Its not for the novelty of putting a word you created on the dictionary (who cares about dictionaries in 2021 anyways?). It's the wide recognition by people worldwide that its a methodology that can be seperated from Elon Musk as an individual. So yes, you don't have to be in Silcon Valley during the internet bubble. And no, you don't have to drop out from Stanford graduate school. You don't even have to be an expert on twitter memes, though it would be fun to have more business leaders with a sense of humour. 
+So why is it important to put "Elongineering" on the dictionary? Its not for the legacy of putting a word you created on the dictionary (who cares about dictionaries in 2021 anyways?). It's the wide recognition by people worldwide that its a methodology that can be seperated from Elon Musk as an individual. So yes, you don't have to be in Silcon Valley during the internet bubble. And no, you don't have to drop out from Stanford graduate school. You don't even have to be an expert on twitter memes, though it would be fun to have more business leaders with a sense of humour. 
 
 &nbsp;&nbsp;
 
