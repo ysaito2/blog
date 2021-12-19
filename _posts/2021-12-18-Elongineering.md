@@ -13,7 +13,7 @@ I believe this is the single characteristic that differentiates Elon from any ot
 
 &nbsp;&nbsp;
 
-I've decided to call Elon's systematic approach "Elongineering". My ambition is to get the terminology on the Merriam-Webster dictionary by 2030! I will get back to why this goal isn't as silly as it sounds. 
+I've decided to call Elon's systematic approach "Elongineering" (I tried other words like Elonpreneurship, but they just don't have the right ring). My ambition is to get the terminology on the Merriam-Webster dictionary by 2030! I will get back to why this goal isn't as silly as it sounds. 
 
 &nbsp;&nbsp;
 
