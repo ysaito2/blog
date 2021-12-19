@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to avoid "the boring looking beautiful girl in a passenger seat of an expensive car" syndrome"
+title:  "How to avoid 'the boring looking beautiful girl in a passenger seat of an expensive car' syndrome"
 date:   2021-12-19
 categories: Philosophy
 ---
