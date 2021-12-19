@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to avoid 'the boring looking beautiful girl in a passenger seat of an expensive car' syndrome"
+title:  "How to avoid 'the bored beautiful girl in a passenger seat of an expensive car' syndrome"
 date:   2021-12-19
 categories: Philosophy
 ---
@@ -17,7 +17,7 @@ I believe the beautiful girl got everything she *thought* she wanted. She won th
 
 &nbsp;
 
-If you have read my previous blog posts, you may have realized I love making terminologies. Well, this will be the best one yet: "the boring looking beautiful girl in a passenger seat of an expensive car syndrome". Its the state one realizes after working hard and achieving their goals that **it wasn't actually what they wanted**. Its highly relevant to clever and hardworking people who know how to win the game. I see it everywhere in our society, not just inside $200,000 luxury coupes. 
+If you have read my previous blog posts, you may have realized I love making terminologies. Well, this will be the best one yet: "the bored beautiful girl in a passenger seat of an expensive car syndrome". Its the state one realizes after working hard and achieving their goals that **it wasn't actually what they wanted**. Its highly relevant to clever and hardworking people who know how to win the game. I see it everywhere in our society, not just inside $200,000 luxury coupes. 
 
 &nbsp;
 
@@ -41,7 +41,7 @@ I've also realized for many people **winning the game is the goal**, and the nam
 
 &nbsp;
 
-I believe "the boring looking beautiful girl in a passenger seat of an expensive car syndrome" is a condition that will haunt current and future generations to come. Doesn't matter if we create a metaverse, integrate our brains with superhuman AI, or become an interplanetary species. 
+I believe "the bored beautiful girl in a passenger seat of an expensive car syndrome" is a condition that will haunt current and future generations to come. Doesn't matter if we create a metaverse, integrate our brains with superhuman AI, or become an interplanetary species. 
 
 &nbsp;
 
