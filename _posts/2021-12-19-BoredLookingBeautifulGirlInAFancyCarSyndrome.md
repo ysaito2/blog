@@ -5,7 +5,7 @@ date:   2021-12-19
 categories: Philosophy
 ---
 
-Have you ever seen a really fancy car (Bently Continental class) stopped at a red traffic light in the city? 
+Have you ever looked inside a really fancy car (Bently Continental class) stopped at a red traffic light in the city? 
 
 &nbsp;
 
