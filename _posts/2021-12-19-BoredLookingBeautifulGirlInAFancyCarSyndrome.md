@@ -17,7 +17,7 @@ I believe the beautiful girl got everything she *thought* she wanted. She won th
 
 &nbsp;
 
-If you have read my previous blog posts, you may have realized I love making terminologies. Well, this will be the best one yet: "the bored beautiful girl in a passenger seat of an expensive car syndrome". Its the state one realizes after working hard and achieving their goals that **it wasn't actually what they wanted**. Its highly relevant to clever and hardworking people who know how to win the game. I see it everywhere in our society, not just inside $200,000 luxury coupes. 
+If you have read my previous blog posts, you may have realized I love making terminologies. Well, this will be the best one yet: "the bored beautiful girl in a passenger seat of an expensive car syndrome". Its the state when one realizes after working hard and achieving their goals that **it wasn't actually what they wanted**. Its highly relevant to clever and hardworking people who know how to win the game. I see it everywhere in our society, not just inside $200,000 luxury coupes. 
 
 &nbsp;
 

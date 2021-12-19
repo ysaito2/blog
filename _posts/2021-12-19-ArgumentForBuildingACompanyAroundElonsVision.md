@@ -9,7 +9,7 @@ I realized I have wasted the last three years of my life trying to come up with 
 
 &nbsp;
 
-When you look at every startup company, its basically a struggle to attract attention to their mission. Each company has a problem they want to solve, and go through an arduous process of convicing the most talented engineers and investors that their mission is more important than anything else that's out there. In this framework, each company has to bring a new insight into the world, something unique to attract the attention out of thousands of new startups that are added to the community every year. 
+When you look at every startup company, its basically a struggle to attract attention to their mission. Each company has a problem they want to solve, and go through an painstaking process of convicing the most talented engineers and investors that their mission is more important than anything else that's out there. In this framework, each company has to bring a new insight into the world, something unique to attract the attention out of thousands of new startups that are added to the community every year. 
 
 &nbsp;
 
