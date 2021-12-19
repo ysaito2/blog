@@ -29,7 +29,7 @@ One solution is the resources provided by [80,000 hour](https://80000hours.org/)
 
 &nbsp;
 
-Another solution is to periodically detach yourself from the "buzz" of the game and ask yourself if goal is still worth pursuing. Are you enjoying the game for the sake of it, or are you building towards a future that is worthwhile? If you wince reading the question, you need to stop and reflect.  
+Another solution is to periodically detach yourself from the "buzz" of the game and ask yourself if the goal is still worth pursuing. Are you enjoying the game for the sake of it, or are you building towards a future that is worthwhile? If you wince reading the question, you need to stop and reflect.  
 
 &nbsp;
 
