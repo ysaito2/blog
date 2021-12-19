@@ -21,7 +21,7 @@ But there is one entrepreneur that clearly stands out in communicating a compell
 
 &nbsp;
 
-Now, then why should I bother coming up with a vision to join the brawl among millions of startups to attract attention when *we already have a vision that anyone around the world can rally behind.* Why not just build a company with a simple statement: "To accelerate the process of realizing Elon Musk's vision by developing technologies to create the next building blocks of a multi-planetry civilization."
+Now, then why should I bother coming up with a vision to join the brawl among millions of startups to attract attention when *we already have a vision that anyone around the world can rally behind.* Why not just build a company with a simple statement: "To accelerate the process of realizing Elon Musk's vision by creating the next building blocks of technologies for a multi-planetry civilization."
 
 &nbsp;
 
