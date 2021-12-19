@@ -52,7 +52,7 @@ Putin is also described as a terrible administrator, but somewhat different from
 &nbsp;&nbsp;
 
 
-Both cases are what I call a “personification of organizations”. In both cases, the entire organization is bent to match the work style and preferences of their respective leaders. Unwritten customs are made not for the benefit of the organization, but for their own comfort. The entire organization becomes paralyzed by waiting for approvals that may take a day or several years depending on what the leader decides is important. 
+Both cases are what I call a "personalization" of organizations. In both cases, the entire organization is bent to match the work style and preferences of their respective leaders. Unwritten customs are made not for the benefit of the organization, but for their own comfort. The entire organization becomes paralyzed by waiting for approvals that may take a day or several years depending on what the leader decides is important. 
 
 
 &nbsp;&nbsp;
@@ -64,7 +64,7 @@ So the important question to ask here is: Was Billy Durant, as many believed at 
 &nbsp;&nbsp;
 
 
-History has proven repeatedly that there is always a line behind us of brilliant talent waiting to fill in our place, no matter how hard we work, no matter how talented we regard ourselves. Charismatic leaders will either have to step down or undo the “personification” of their respective organizations, the only way to achieve it being the redistribution of responsibilities.
+History has proven repeatedly that there is always a line behind us of brilliant talent waiting to fill in our place, no matter how hard we work, no matter how talented we regard ourselves. Charismatic leaders will either have to step down or undo the "personalization" of their respective organizations, the only way to achieve it being the redistribution of responsibilities.
 
 
 &nbsp;&nbsp;
