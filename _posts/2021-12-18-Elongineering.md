@@ -21,15 +21,21 @@ So what exactly is "Elongineering"?
 
 &nbsp;&nbsp;
 
-As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors.Following the principles, anyone should be able to kickass.   
+As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors. 
+Following the principles, anyone should be able to kickass.   
 
 &nbsp;&nbsp;
 
-The following is a crude breakup of the approach:
-1) Identify technical domain with high impact to society 
-2) Thorough research of domain and existing companies 
-3) List out problems + improvements that can be made to the current state-of-the-art
-4) Identify the immediate problem and tackle it while prioritizing engineering design for fast iteration (simplicity/low cost materials) 
+The following is a crude breakup of the approach:<p>
+
+1) Identify technical domain with high impact to society <p>
+
+2) Thorough research of domain and existing companies <p>
+
+3) List out problems + improvements that can be made to the current state-of-the-art<p>
+
+4) Identify the immediate problem and tackle it while prioritizing engineering design for fast iteration (simplicity/low cost materials) <p>
+
 
 &nbsp;&nbsp;
 
