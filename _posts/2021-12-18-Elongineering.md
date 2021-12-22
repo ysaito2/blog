@@ -21,7 +21,19 @@ So what exactly is "Elongineering"?
 
 &nbsp;&nbsp;
 
-As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. Hence, its not dependent on the skills, history, and blind luck of the individual. You don't have to be a programmer in Harvard who happened to be hired part-time to build a social media platform. You don't have to be a consultant who saw the potential of the internet at her infancy. Following the principles, anyone should be able tackle difficult problems by dissecting the problem and solving the immediate problems one-by-one. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors. 
+As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors.Following the principles, anyone should be able to kickass.   
+
+&nbsp;&nbsp;
+
+The following is a crude breakup of the approach:
+1) Identify technical domain with high impact to society 
+2) Thorough research of domain and existing companies 
+3) List out problems + improvements that can be made to the current state-of-the-art
+4) Identify the immediate problem and tackle it while prioritizing engineering design for fast iteration (simplicity/low cost materials) 
+
+&nbsp;&nbsp;
+
+The list above is pretty obvious and honestly a bit useless. I know. Give me a little bit of time to get it right. 
 
 &nbsp;&nbsp;
 
@@ -37,7 +49,7 @@ I'm having trouble finding great resources for Tesla, and other "smaller" projec
 
 &nbsp;&nbsp;
 
-So why is it important to put "Elongineering" on the dictionary? Its not for the legacy of putting a word you created on the dictionary (who cares about dictionaries in 2021 anyways?). It's the wide recognition by people worldwide that its a methodology that can be seperated from Elon Musk as an individual. So yes, you don't have to be in Silcon Valley during the internet bubble. And no, you don't have to drop out from Stanford graduate school. You don't even have to be an expert on twitter memes, though it would be fun to have more business leaders with a sense of humour. 
+So why is it important to put "Elongineering" on the dictionary? Its not for the legacy of putting a word you created on the dictionary. It's the wide recognition by people worldwide that its a methodology that can be seperated from Elon Musk as an individual. So yes, you don't have to be in Silcon Valley during the internet bubble. And no, you don't have to drop out from Stanford graduate school. You don't even have to be an expert on twitter memes, though it would be fun to have more business leaders with a sense of humour. 
 
 &nbsp;&nbsp;
 
