@@ -5,23 +5,23 @@ date:   2021-12-19
 categories: Companies
 ---
 
-I realized I have wasted the last three years of my life trying to come up with a compelling future that we want to build (i.e. a vision) for starting a company. 
+When you look at every startup company, its basically a struggle to attract attention to their mission. Each company proposes a unique approach to solving an important problem. They then go through an painstaking process of convicing the most talented engineers and investors that their mission is more important than anything else that's out there. Each company has to bring a new insight into the world, something unique to attract attention to itself in a mob of thousands of new startups that are added to the community every year. 
 
 &nbsp;
 
-When you look at every startup company, its basically a struggle to attract attention to their mission. Each company has a problem they want to solve, and go through an painstaking process of convicing the most talented engineers and investors that their mission is more important than anything else that's out there. In this framework, each company has to bring a new insight into the world, something unique to attract the attention out of thousands of new startups that are added to the community every year. 
+It goes without saying that the techinical foundation behind each of these startups have to be solid. But there are countless startups, current and the ones failed in the past, tackling more the less similar problems. Framing the problem in the right way and attracting talent matters. 
 
 &nbsp;
 
-I have looked into many companies in domains like gene-editing, VR, processors, AI, space, self-driving, etc. They all have compelling arguments for why their mission is important. The clever and accomplished founders communicate their visions of the future that sounds well, pretty exciting and meaningful. 
+Looking into many companies in domains like gene-editing, VR, processors, AI, space, self-driving, etc, its easy to notice that they all have compelling arguments for why their mission is important. The clever and accomplished founders communicate their visions of the future that sounds well, pretty exciting and meaningful. 
 
 &nbsp;
 
-But there is one entrepreneur that clearly stands out in communicating a compelling future and his name is Elon Musk. The vision he articulates is truly extraordinary, something the most talented engineers in the world will stand behind. The fact is nobody alive can catch the imagination of the world better than he has. Period. 
+But there is one entrepreneur that clearly stands out in communicating a compelling future and his name is Elon Musk. The best engineers in the world will stand behind the vision he articulates. The fact is nobody alive can catch the imagination of the world better than he has. Period. 
 
 &nbsp;
 
-Now, then why should anyone bother coming up with a vision to join the brawl among millions of startups to attract attention when *we already have a vision that anyone around the world can rally behind.* Why not just build a company with a simple statement: "To accelerate the process of realizing Elon Musk's vision by creating the next building blocks of technologies for a multi-planetry civilization."
+Now, then why should anyone bother coming up with a vision to join the brawl among millions of startups when *we already have a vision that anyone around the world can rally behind.* Why not just build a company with a simple statement: "To accelerate the process of realizing Elon Musk's vision by creating the next building blocks of technologies for a multi-planetry civilization."
 
 &nbsp;
 
