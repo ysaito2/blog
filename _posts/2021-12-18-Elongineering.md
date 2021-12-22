@@ -26,16 +26,11 @@ Following the principles, anyone should be able to kickass.
 
 &nbsp;&nbsp;
 
-The following is a crude breakup of the approach:<p>
-
-1) Identify technical domain with high impact to society <p>
-
-2) Thorough research of domain and existing companies <p>
-
-3) List out problems + improvements that can be made to the current state-of-the-art<p>
-
-4) Identify the immediate problem and tackle it while prioritizing engineering design for fast iteration (simplicity/low cost materials) <p>
-
+The following is a crude breakup of the approach:
+1. Identify technical domain with high impact to society 
+2. Thorough research of domain and existing companies 
+3. List out problems + improvements that can be made to the current state-of-the-art
+4. Identify the immediate problem and tackle it while prioritizing engineering design for fast iteration (simplicity/low cost materials)
 
 &nbsp;&nbsp;
 
