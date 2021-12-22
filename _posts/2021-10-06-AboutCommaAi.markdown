@@ -49,7 +49,7 @@ Its also worth noting that comma's decision to open source their software doesn'
 
 &nbsp;
 
-Not to mention that robo-taxis are a horrible business model. A fleet of self-driving cars costing $100,000+ a pop picking up people going grocery shopping is **not a high margin business**. It also comes with a logistics nightmare of *excess* capacity for majority of the day and *lack* of capacity during peak hours, leading to terrible user experience while bleeding money (its time to build the giga-garage!).  Even if they solve full-self driving, robo-taxi businesses still have massive technical challenges to overcome until they start generating revenue. Then, they need to recover their R/D costs *spanning up to and beyond a decade*, until they can finally start investing their profits to scale their business. Its a really long pathway to achieve zero fatalities on the road. Tesla and comma just don't have to deal with these problems.
+Not to mention that robo-taxis are a horrible business model. A fleet of self-driving cars costing $100,000+ a pop picking up people going grocery shopping is **not a high margin business**. It also comes with a logistics nightmare of *excess* capacity for majority of the day and *lack* of capacity during peak hours, leading to terrible user experience while bleeding money.  Even if they solve full-self driving, robo-taxi businesses still have massive technical challenges to overcome until they start generating revenue. Then, they need to recover their R/D costs *spanning up to and beyond a decade*, until they can finally start investing their profits to scale their business. Its a really long pathway to achieve zero fatalities on the road. Tesla and comma just don't have to deal with these problems.
 
 &nbsp;
 
@@ -57,7 +57,7 @@ My point of this post is that I think comma.ai should be studied as a textbook e
 
 &nbsp;
 
-So here's the takeaway: create an environment where you can focus on solving problems that matter. Avoid solving problems that don't have to solved. The shortest path to solving big problems is by generating revenue and scaling. 
+So here's the takeaway: create an environment where you can focus on solving problems that matter. The shortest path to solving big problems is by generating revenue and scaling. 
 
 &nbsp;
 

@@ -33,7 +33,7 @@ I also found that following the trajectory of Neurolink is a great resource for 
 
 &nbsp;&nbsp;
 
-I'm having trouble finding great resources for Tesla, and other "smaller" projects like Boring company, online education for kids (forgot the name), Hyperloop, etc. I guess its more challenging to draw a clear trajectory for Tesla since Elon joined the company as an engineer and later became the CEO, though the approach starting from sports cars, where drivers are more tolerant to unpolished interior design and discomfort, and moving down the price and scaling manufactoring for mass production models makes sense. The other smaller projects are "lets try this cool idea", more of a novelty rather than projects focused on solving a urgent/audacious problem. 
+I'm having trouble finding great resources for Tesla, and other "smaller" projects like Boring company, online education for kids (forgot the name), Hyperloop, etc. I guess its more challenging to draw a clear trajectory for Tesla since Elon joined the company as an engineer and later became the CEO. The other smaller projects are "lets try this cool idea", more of a novelty rather than projects focused on solving a urgent/audacious problem. 
 
 &nbsp;&nbsp;
 
@@ -57,7 +57,7 @@ This is a fun thinking excercise: what if a Elon Musk style business immerges fr
 
 &nbsp;&nbsp;
 
-And man, wouldn't it be crazy if this company is massively successful? It would be a living proof that "Elongineering" can be applied by companies anywhere around the world. Then, the company can document and eventually publish the process of solving challenges it encountered as it build its own technology and organization. Future entreprenuers around the world will study the methodology and apply it to their own audacious problems. Thousands of super effective companies/organizations solving urgent local and global problems. Some of them will be pushing the frontiers of humanity. 
+And man, wouldn't it be crazy if this company is massively successful? It would be a living proof that "Elongineering" can be applied by companies anywhere around the world. The company can document and eventually publish the process of solving challenges it encountered as it build its own technology and organization. Future entreprenuers around the world will study the methodology and apply it to their own audacious problems. Thousands of super effective companies/organizations solving urgent local and global problems. Some of them will be pushing the frontiers of humanity. 
 
 &nbsp;&nbsp;
 

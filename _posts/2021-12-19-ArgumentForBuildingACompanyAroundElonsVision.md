@@ -21,15 +21,15 @@ But there is one entrepreneur that clearly stands out in communicating a compell
 
 &nbsp;
 
-Now, then why should I bother coming up with a vision to join the brawl among millions of startups to attract attention when *we already have a vision that anyone around the world can rally behind.* Why not just build a company with a simple statement: "To accelerate the process of realizing Elon Musk's vision by creating the next building blocks of technologies for a multi-planetry civilization."
+Now, then why should anyone bother coming up with a vision to join the brawl among millions of startups to attract attention when *we already have a vision that anyone around the world can rally behind.* Why not just build a company with a simple statement: "To accelerate the process of realizing Elon Musk's vision by creating the next building blocks of technologies for a multi-planetry civilization."
 
 &nbsp;
 
-The company can systematically break down gaps and identify what the next building blocks of technology are for building Elon Musk's vision of a thriving civilization here on Earth and Mars. No need to convince anybody why our mission is exciting and meaningful. Our communication will focus on the engineering approach that we determined is the best course to take to realize the corporate statement. The best engineers who see our approach is correct will join us. (Or not, in which case we will iterate on the engineering approach until we get it right)
+The company can systematically break down gaps and identify what the next building blocks of technology are for building Elon Musk's vision of a thriving civilization here on Earth and Mars. No need to convince anybody why our mission is exciting and meaningful. External communications will focus on the engineering approach that is determined the best course to take to realize the corporate statement. The best engineers who see our approach is correct will join the organization. (Or not, in which case, iterate on the engineering approach until it is right)
 
 &nbsp;
 
-Whew, no hand waving, interviews, and emotional talks. Great. 
+Whew, no hand waving, interviews, and emotional talks. Great.
 
 &nbsp;
 
@@ -42,7 +42,7 @@ I wrote down a list of reasons why this would be a good idea:
 
 &nbsp;
 
-I am trying to come up with a list of why this would be bad idea and the risks involved. I guess one would be SpaceX building the technology that we are building and out-maneuver us in the process. There is also a risk of the company being purchased by SpaceX in the future (I'm not sure if this is bad or not). Generating revenue in a space venture will continue to be enormously difficult. Our success will rely on many external factors that we have no control over. Once the company *is successful*, the best engineers will most likely be head-hunted by SpaceX. 
+I am trying to come up with a list of why this would be bad idea and the risks involved. I guess one would be SpaceX building the technology and out-maneuver in the process. There is also a risk of the company being purchased by SpaceX in the future (I'm not sure if this is bad or not). Generating revenue in a space venture will continue to be enormously difficult. Our success will rely on many external factors that we have no control over. Once the company *is successful*, the best engineers will most likely be head-hunted by SpaceX. 
 
 &nbsp;
 
