@@ -17,6 +17,10 @@ I've decided to call Elon's systematic approach "Elongineering" (I tried other w
 
 &nbsp;&nbsp;
 
+I'd like to first point out that I do believe some are born with innate skills, like physicist John von Neumann, who apparently could recite entire books out of memory(!) and many others who lead the way in the [development of the digital era](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119). But its also worth noting that great men and women who accomplished extraordinary achievements during their careers have made excruciating efforts, as pointed out in [Talent is overrated](https://geoffcolvin.com/books/talent-is-overrated/). Looking at Elon's bio, there really isn't anything that stands out, up until selling his first company X. Unlike the geniuses that appear in the "Dream Machine", I don't think he was born with any innate skills. I hope you will keep reading with this in mind. 
+
+&nbsp;&nbsp;
+
 So what exactly is "Elongineering"? 
 
 &nbsp;&nbsp;
@@ -24,7 +28,6 @@ So what exactly is "Elongineering"?
 As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems.
 
 &nbsp;&nbsp;
-
 The following is a crude breakup of the approach:
 1. Identify technical domain with high impact to society 
 2. Thorough research of domain and existing companies 
