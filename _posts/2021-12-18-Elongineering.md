@@ -21,8 +21,7 @@ So what exactly is "Elongineering"?
 
 &nbsp;&nbsp;
 
-As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems. You should be able to show your approach to convince the most talented engineers in the world to join your mission and raise money from investors. 
-Following the principles, anyone should be able to kickass.   
+As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems.
 
 &nbsp;&nbsp;
 
@@ -34,7 +33,7 @@ The following is a crude breakup of the approach:
 
 &nbsp;&nbsp;
 
-The list above is pretty obvious and honestly a bit useless. I know. Give me a little bit of time to get it right. 
+The list above is pretty obvious and honestly a bit useless. I know. But the point is that there is clearly a consistency in the way Elon Musk tackles *any* engineering problem. I just have to spent a little bit more time to get it right. 
 
 &nbsp;&nbsp;
 
@@ -42,7 +41,7 @@ How do we study Elongineering? As starters, there is a great book by Eric Berger
 
 &nbsp;&nbsp;
 
-I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the white paper published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and the methods they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
+I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the [white paper](https://www.biorxiv.org/content/10.1101/703801v1) published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and the methods they took to solve them. The earlier annoucements made by the company is clearly a period of "feeling" around the problem, while the most recent annoucement the shows a more clear direction of the company. 
 
 &nbsp;&nbsp;
 
