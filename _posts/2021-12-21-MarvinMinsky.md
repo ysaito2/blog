@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Marvin Minsky is awesome"
-date:   2021-12-21
-categories: Philosophy
----
 
 How could I have been so ignorant?
 

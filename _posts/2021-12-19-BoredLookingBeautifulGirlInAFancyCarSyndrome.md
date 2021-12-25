@@ -17,11 +17,15 @@ I believe the beautiful girl got everything she *thought* she wanted. She won th
 
 &nbsp;
 
-If you have read my previous blog posts, you may have realized I love making terminologies. Well, this will be the best one yet: "the bored beautiful girl in a passenger seat of an expensive car syndrome". Its the state when one realizes after working hard and achieving their goals that **it wasn't actually what they wanted**. Its highly relevant to clever and hardworking people who know how to win the game. I see it everywhere in our society, not just inside $200,000 luxury coupes. 
+If you have read my previous blog posts, you may have realized I love making terminologies. Well, this will be the best one yet: "the bored beautiful girl in a passenger seat of an expensive car syndrome". Its the state when one realizes after working hard and achieving their goals that **it wasn't actually what they wanted**. Its highly relevant to clever and hardworking people who know how to win the game. Its everywhere in our society, not just inside $200,000 luxury coupes. 
 
 &nbsp;
 
 Its important to find methods to avoid this syndrome. The last thing you want is to spent years working towards a goal and realizing *after* achieiving it that it wasn't actually what you wanted. Some will hesitate to pursue their goals when they know the risk of the syndrome is there. 
+
+&nbsp;
+
+Its shocking how *little* resources are out there that help you avoid this syndrome. University career centers help you find a *job*, but I have never heard of a institution within the current education system that helps you *define* your career goals (We do have resources allocated to learn how to sew and speak French, both critical skills in the modern world). I guess the reason would be that every person derives meaning in their lives in different ways, and career goals are magically *discovered* as you *learn who you are* by take all those pointless liberal arts and electives courses sprinkled throughout the curriculum. Shouldn't there at least be a framework to follow for something so important? 
 
 &nbsp;
 
@@ -33,7 +37,7 @@ Another solution is to periodically detach yourself from the "buzz" of the game 
 
 &nbsp;
 
-The solution I realized has worked for me is to ask yourself whether you will be bored working on the project five years from now. I don't think you can achieve anything meaningful unless you commit at least five years into the project. If you know you will be bored before then, its probably not as challenging or important as you want. Hence, not worth pursuing. 
+The solution I realized I have been doing unconsciously is to ask myself whether I will be bored working on the project five years from now. I don't think you can achieve anything meaningful unless you commit at least five years into the project. If you know you will be bored before then, its probably not as challenging or important as you want. Hence, not worth pursuing. 
 
 &nbsp;
 
