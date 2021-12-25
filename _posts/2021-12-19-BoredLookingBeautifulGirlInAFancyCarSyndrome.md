@@ -25,7 +25,7 @@ Its important to find methods to avoid this syndrome. The last thing you want is
 
 &nbsp;
 
-Its shocking how *little* resources are out there that help you avoid this syndrome. University career centers help you find a *job*, but I have never heard of a institution within the current education system that helps you *define* your career goals (While we do have resources allocated to learn how to sew and speak French, both critical skills in the modern world). I guess the reason would be that since every person derives meaning in their lives in different ways, career goals are magically *discovered* as you *learn who you are* by taking seemingly irrelevant liberal arts and elective courses sprinkled throughout the curriculum. Shouldn't there at least be a framework to follow for something so important? 
+Its shocking how *little* resources are out there that help you avoid this syndrome. University career centers help you find a *job*, but I have never heard of a institution within the current education system that helps you *define* your career goals (While we do have resources allocated to learn how to sew and speak French, both critical skills in the modern world). I guess the reason would be that since every person derives meaning in their lives in different ways, career goals are *discovered* as you *learn who you are* by taking seemingly irrelevant liberal arts and elective courses sprinkled throughout the curriculum. Shouldn't there at least be a framework to follow for something so important? 
 
 &nbsp;
 
@@ -41,11 +41,11 @@ The solution I realized I have been doing unconsciously is to ask myself whether
 
 &nbsp;
 
-Its worth noting here that for many  **winning the game is the goal**, and the name of the game doesn't really matter. Once they win in one game, they move on to the next and the next, etc until they are too old to continue. I am not a fan of the approach, but many  derive meaning in their careers this way. I am not sure if this advice will be helpful to all the bored beautiful girls out there, but it is what it is. 
+Its worth noting here that for many  **winning the game is the goal**, and the name of the game doesn't really matter. Once they win in one game, they move on to the next and the next, etc until they are too old to continue. Its hard to justify this approach, but it seems many derive meaning in their careers this way. I am not sure if this advice will be helpful to all the bored beautiful girls out there, but it is what it is. 
 
 &nbsp;
 
-I believe "the bored beautiful girl in a passenger seat of an expensive car syndrome" is a condition that will haunt current and future generations to come. Doesn't matter if we create a metaverse, integrate our brains with superhuman AI, or become an interplanetary species. 
+"The bored beautiful girl in a passenger seat of an expensive car syndrome" is a condition that will haunt current and future generations to come. Doesn't matter if we create a metaverse, integrate our brains with superhuman AI, or become an interplanetary species. 
 
 &nbsp;
 
