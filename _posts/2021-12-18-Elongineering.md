@@ -45,6 +45,10 @@ How do we study Elongineering? As starters, there is a great book by Eric Berger
 
 &nbsp;&nbsp;
 
+Another book to read would be "The Case for Mars" by Robert Zubrin, the current President of Mars Society, which Elon Musk is a member. The engineering decisions in Space X is clearly heavily influenced by the ideas by Robert, who advocates for a mission with no reliance on LEO+lunar infrastructure (Mars Direct) and short development cycle ("If you want to get humans to Mars, you can't do it in thirty years; you can't do it in twenty years - ten years is the most you can hope for"). There are many more ideas in the brilliant book, highly recommended to engineers even if they are not interested in space exploration. 
+
+&nbsp;&nbsp;
+
 I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the [white paper](https://www.biorxiv.org/content/10.1101/703801v1) published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and the methods they took to solve them. The annoucements on youtube show a trajectory of the company positioning its identiity, where the earlier annoucement made by the company is clearly a period of "feeling" around the problem. The most recent announcement shows a more clear direction of the company. 
 
 &nbsp;&nbsp;
