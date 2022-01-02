@@ -17,7 +17,7 @@ I've decided to call Elon's systematic approach "Elongineering" (I tried other w
 
 &nbsp;&nbsp;
 
-I'd like to first point out that I do believe some are born with innate skills, like physicist John von Neumann, who apparently could recite entire books out of memory(!) and many others who lead the way in the [development of the digital era](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119). But its also worth noting that great men and women who accomplished extraordinary achievements during their careers have made excruciating efforts, as pointed out in [Talent is overrated](https://geoffcolvin.com/books/talent-is-overrated/). Looking at Elon's bio, there really isn't anything that stands out, up until selling his first company X. Unlike the geniuses that appear in the "Dream Machine", I don't think he was born with any innate skills. I hope you will keep reading with this in mind. 
+I'd like to mention that I do believe some are born with innate skills, like physicist John von Neumann, who apparently could recite entire books out of memory(!) and many researchers who lead the way in the [development of the digital era](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119). But its also worth noting that great men and women who accomplished extraordinary achievements during their careers have made excruciating efforts (check [Talent is overrated](https://geoffcolvin.com/books/talent-is-overrated/)). Looking at Elon's bio, there really isn't anything that stands out, up until selling his first company X. Unlike the geniuses that appear in the "Dream Machine", I don't think he was born with any special talent. I hope you will keep reading with this in mind. 
 
 &nbsp;&nbsp;
 
@@ -25,11 +25,7 @@ So what exactly is "Elongineering"?
 
 &nbsp;&nbsp;
 
-As I repeatedly write above, it is a *systematic* approach to building companies and technologies to solve audacious problems, independent from Elon Musk. 
-
-&nbsp;&nbsp;
-
-The following is a crude breakup of the approach:
+As I wrote above, it is a *systematic* approach to building companies and technologies to solve audacious problems. The following is a crude breakup of the approach:
 1. Identify technical domain with high impact to society 
 2. Thorough research of domain and existing companies 
 3. List out problems + improvements that can be made to the current state-of-the-art
@@ -41,11 +37,11 @@ The list above is pretty obvious and honestly a bit useless. I know. But the poi
 
 &nbsp;&nbsp;
 
-How do we study Elongineering? As starters, there is a great book by Eric Berger "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX" that covers, well as the title says the early days of SpaceX. There is also a great video by Everyday Astraunaut on [youtube](https://www.youtube.com/c/EverydayAstronaut) explaining the engineering decisions made for the development of the Merlin and Raptor engines. Both are great resources to start studying how Elon builds technology and companies.  
+How do we study Elongineering? As starters, there is a great book by Eric Berger "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX" that covers, well as the title says, the early days of SpaceX. There is also a great video by Everyday Astronaut on [youtube](https://www.youtube.com/c/EverydayAstronaut) explaining the engineering decisions made for the development of the Merlin and Raptor engines. Both are great resources to start studying how Elon builds technology and companies.  
 
 &nbsp;&nbsp;
 
-Another book to read would be "The Case for Mars" by Robert Zubrin, the current President of Mars Society, which Elon Musk is a member. The engineering decisions in Space X is clearly heavily influenced by the ideas by Robert, who advocates for a mission with no reliance on LEO+lunar infrastructure (Mars Direct) and short development cycle ("If you want to get humans to Mars, you can't do it in thirty years; you can't do it in twenty years - ten years is the most you can hope for"). There are many more ideas in the brilliant book, highly recommended to engineers even if they are not interested in space exploration. 
+Another book to read would be "The Case for Mars" by Robert Zubrin, the current President of Mars Society (which Elon Musk is a member). The engineering decisions in Space X is clearly influenced by ideas in the book, like a Mars mission with no reliance on LEO+lunar infrastructure ("Mars Direct" approach) and short development cycle ("If you want to get humans to Mars, you can't do it in thirty years; you can't do it in twenty years - ten years is the most you can hope for"). I may be overreaching, but it seems Elon has applied the engineering philosophies in the book not only for SpaceX, but also in his other ventures. 
 
 &nbsp;&nbsp;
 
@@ -57,7 +53,7 @@ I'm having trouble finding great resources for Tesla, and other "smaller" projec
 
 &nbsp;&nbsp;
 
-So why is it important to put "Elongineering" on the dictionary? Its not for the legacy of putting a word you created on the dictionary. It's the wide recognition by people worldwide that its a methodology that can be seperated from Elon Musk as an individual. So yes, you don't have to be in Silcon Valley during the internet bubble. And no, you don't have to drop out from Stanford graduate school. You don't even have to be an expert on twitter memes, though it would be fun to have more business leaders with a sense of humour. 
+So why is it important to put "Elongineering" on the dictionary? Its not for the legacy of putting a word you created on the dictionary! It's the wide recognition by people worldwide that its a methodology that can be seperated from Elon Musk as an individual. So yes, you don't have to be in Silcon Valley during the internet bubble. And no, you don't have to drop out from Stanford graduate school. You don't even have to be an expert on twitter memes, though it would be fun to have more business leaders with a sense of humour. 
 
 &nbsp;&nbsp;
 
