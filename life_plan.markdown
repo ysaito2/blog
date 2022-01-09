@@ -85,24 +85,25 @@ permalink: /Life plan/
 &nbsp;
 ## 2052 - 33th year in industry (57) to 2062 - 43th year in industry (67) 
 - project 3. fix education: create a flagship school (with environment of future as in Alan Kay talk) for future generations 
-    - concerned with children in developing countries falling behind to developed countries concentrating resource on fewer children (possibly gene editing)
-    - by this time, we need to make sure people are not discredited as useless by large computers/algorithms. People ARE ESSENTIAL for generating data to train better AI models. Should transfer from free-open web -> micropayment economy where people are given credit for their work. 
+- concerned with children in developing countries falling behind to developed countries concentrating resource on fewer children (possibly of gene editing new borns in developed nations)
+- by this time, we need to make sure people are not discredited as useless by large computers/algorithms. People ARE ESSENTIAL for generating data to train better AI models. Should transfer from free-open web -> micropayment economy where people are given credit for their work. 
 
 &nbsp;
 ## 2062 - 43th year in industry (67) to 2072 - 53th year in industry (77)
 - project 4. ?
-    - solidify the institutions build until 
+- solidify the institutions build until this time
 
 &nbsp;
 ## 2072 - 53th year in industry (77) to 2082 - 63th year in industry (87)
 - project 5. ?
+- I hope medical technologies is advanced enough that my mind is still sharp
 
 &nbsp;
 ## 2082 - 63th year in industry (87) to 2092 - 73th year in industry (97)
 - project 6. ?
-    - invest accumulated wealth to new generation of entrepreneurs/engineers/scientists
-    - cool to see technolgy created in research laboratories used by companies for ambitious endeavours
-    - help researchers in laboratories build good companies and create great jobs in the industry
+- invest accumulated wealth to new generation of entrepreneurs/engineers/scientists
+- cool to see technolgy created in research laboratories used by companies for ambitious endeavours
+- help researchers in laboratories build good companies and create great jobs in the industry
 
 &nbsp;
 ## 2092 - 73th year in industry (97) to 2095 - Dead (100)
