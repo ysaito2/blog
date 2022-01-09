@@ -4,8 +4,10 @@ title: Life plan
 permalink: /Life plan/
 ---
 
-### Edit history: 
-2022/01/09 - first draft of plan until reaching 100
+|date|edit|
+|----|----|
+|2022/01/09 | first draft of plan until reaching 100|
+
 
 &nbsp;
 ## 2012 - college entry (18) to 2022 - 3rd year in industry (27)
@@ -23,7 +25,7 @@ permalink: /Life plan/
  - fairly good understanding of who I am (what I like, what I don't like, what I'm good at, what I'm bad at)
 
 &nbsp;
-### How could I have done better:
+### How could I have done better
 - Wasted too much time in research that I did not care about which I was not partically good at 
 - I should have joined more hands-on projects that were audacious during college, though I did not have confidence in my abilities at the time
 - I was inefficient with my methology for learning, particularly in college
@@ -40,14 +42,14 @@ permalink: /Life plan/
 &nbsp;
 
 ## 2022 - 3rd year in industry (27) to 2032 - 13th year in industry (37)
-### Primary goals: 
+### Primary goals
 - sole purpose of the 10 years until 37 *should be to accumulate capital for future endeveours*
 - obtain a fortune generate revenue of ~$1B that can be used to invest in ambitious endeavour
 - learn how to run/operate a business 
 
 &nbsp;
 
-### Details: 
+### Details
 - build first company 
     - be an *international* business
     - customers should be able to *buy* good/service online
