@@ -29,7 +29,8 @@ As I wrote above, it is a *systematic* approach to building companies and techno
 1. Identify technical domain with high impact to society 
 2. Thorough research of domain and existing companies 
 3. List out problems + improvements that can be made to the current state-of-the-art
-4. Identify the immediate problem and tackle it while prioritizing engineering design for fast iteration (simplicity/low cost materials)
+4. Identify the immediate problem and tackle it while prioritizing engineering design for fast iteration by use existing technology with high maturity
+5. Iterate through design to make improvements to performance
 
 &nbsp;&nbsp;
 
@@ -41,7 +42,7 @@ How do we study Elongineering? As starters, there is a great book by Eric Berger
 
 &nbsp;&nbsp;
 
-Another book to read would be "The Case for Mars" by Robert Zubrin, the current President of Mars Society (which Elon Musk is a member). The engineering decisions in Space X is clearly influenced by ideas in the book, like a Mars mission with no reliance on LEO+lunar infrastructure ("Mars Direct" approach) and short development cycle ("If you want to get humans to Mars, you can't do it in thirty years; you can't do it in twenty years - ten years is the most you can hope for"). I may be overreaching, but it seems Elon has applied the engineering philosophies in the book not only for SpaceX, but also in his other ventures. 
+Another book to read would be "The Case for Mars" by Robert Zubrin, the current President and Founder of Mars Society (which Elon Musk is a member). The engineering decisions in Space X is clearly influenced by ideas in the book, like a Mars mission with no reliance on LEO+lunar infrastructure ("Mars Direct" approach) and short development cycle ("If you want to get humans to Mars, you can't do it in thirty years; you can't do it in twenty years - ten years is the most you can hope for"). I may be overreaching, but it seems Elon has applied the engineering philosophies in the book not only for SpaceX, but also in his other ventures. 
 
 &nbsp;&nbsp;
 
@@ -78,3 +79,11 @@ And man, wouldn't it be crazy if this company is massively successful? It would 
 &nbsp;&nbsp;
 
 Wouldn't that be something?
+
+
+* Find out whether it is production or engineering design problem?
+* Raw material value weight/cost = theoretical lowest possible cost
+* Manufactor at volume asomptopically close to theoretically limit
+    * instead of thinking of using existing manufactoring tools/methods or past design, think of "platonic" ideal design 
+    * what materials are required to the design?
+* 

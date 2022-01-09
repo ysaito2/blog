@@ -37,7 +37,7 @@ First, its their technology. Comma has defined self-driving as a system which, g
 
 &nbsp;
 
-Doing a deep-dive in the difference in engineering decisions made in the two companies would be super interesting, but I currently don't have the expertise to run such a rigorous analysis. Personally, I feel Tesla is trying to solve full-self driving as quickly as possible, while comma seems to be taking time to building a more natural-feeling system for the driver (hence, their slogan "make driving chill"). Both companies are pursing an end-to-end solution based on vision only. Both are building what users *really* want. But it seems they have defined their users' needs differently. 
+Doing a deep-dive in the difference in engineering decisions made in the two companies would be super interesting, but I currently don't have the expertise to run such a rigorous analysis. Tesla is trying to solve full self-driving in the shortest path, while comma is building a natural-feeling system for the driver (hence, their slogan "make driving chill"). Both companies are pursing an end-to-end solution based on vision only. Both are building what users *really* want. But it seems they have defined their users' needs differently. 
 
 &nbsp;
 
