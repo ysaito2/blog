@@ -17,7 +17,7 @@ I've decided to call Elon's systematic approach "Elongineering" (I tried other w
 
 &nbsp;&nbsp;
 
-I'd like to mention that I do believe some are born with innate skills, like physicist John von Neumann, who apparently could recite entire books out of memory(!) and many researchers who lead the way in the [development of the digital era](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119). But its also worth noting that great men and women who accomplished extraordinary achievements during their careers have made excruciating efforts (check [Talent is overrated](https://geoffcolvin.com/books/talent-is-overrated/)). Looking at Elon's bio, there really isn't anything that stands out, up until selling his first company X. Unlike the geniuses that appear in the "Dream Machine", I don't think he was born with any special talent. I hope you will keep reading with this in mind. 
+I'd like to mention that I do believe some are born with innate skills, like physicist John von Neumann, who apparently could recite entire books out of memory(!) and many researchers who lead the way in the [development of the digital era](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119). But its also worth noting that great men and women who accomplished extraordinary achievements during their careers have made excruciating efforts (check [Talent is overrated](https://geoffcolvin.com/books/talent-is-overrated/)). Looking at Elon's bio, there really isn't anything that stands out, up until selling his first company. Unlike the geniuses that appear in the "Dream Machine", I don't think he was born with any special talent. I hope you will keep reading with this in mind. 
 
 &nbsp;&nbsp;
 
@@ -80,10 +80,11 @@ And man, wouldn't it be crazy if this company is massively successful? It would 
 
 Wouldn't that be something?
 
+&nbsp;&nbsp;
 
+Notes from Lex Friedman podcast: 
 * Find out whether it is production or engineering design problem?
 * Raw material value weight/cost = theoretical lowest possible cost
-* Manufactor at volume asomptopically close to theoretically limit
+* Manufacture at volume asomptopically close to theoretically limit
     * instead of thinking of using existing manufactoring tools/methods or past design, think of "platonic" ideal design 
     * what materials are required to the design?
-* 
