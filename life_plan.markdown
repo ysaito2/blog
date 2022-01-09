@@ -4,13 +4,12 @@ title: Life plan
 permalink: /Life plan/
 ---
 
-## Edit history: 
+### Edit history: 
 2022/01/09 - first draft of plan until reaching 100
 
 &nbsp;
-
 ## 2012 - college entry (18) to 2022 - 3rd year in industry (27)
- ### Accomplishments
+### Accomplishments
  - recieved a college diploma (B.S.+M.S. in Aerospace Eng.)
  - first job in industry 
     - had many opportunities of exploration (research in national lab, CRUD app dev for Toyota, sales, machine learning, image processing, text processing, material science)
@@ -24,20 +23,6 @@ permalink: /Life plan/
  - fairly good understanding of who I am (what I like, what I don't like, what I'm good at, what I'm bad at)
 
 &nbsp;
-### who I respect: 
- Jaron Lanier, Alan Kay, Robert Zubrich (mars society) 
- &nbsp;
-
-### Entrepreneurs:
- Patrick Collison, Paul Graham, George Hotz, Josiah Zayner, Sam Altman, Peter Thiel, Elon Musk, Henry Ford, Walt Disney, Ted Turner, Robert Noyce
-
-&nbsp;
-
-### Academia: 
- Marvin Minsky, Steven Pinker, Niel Ferguson, Richard Feynman, Miyzaki Ichisada
-
-&nbsp;
-
 ### How could I have done better:
 - Wasted too much time in research that I did not care about which I was not partically good at 
 - I should have joined more hands-on projects that were audacious during college, though I did not have confidence in my abilities at the time
@@ -85,6 +70,7 @@ permalink: /Life plan/
 - interesting fields: metaverse+VR+AR (unreal), micropayment (cardano), reinforcement learning (deepmind, comma.ai, tesla), material science (?), microbiology/synthetic biology (the odin). space exploration (spaceX)
 - What's something that will be valuable in the next 10 years? What are changes that will happen between 2022 - 2032? 
 
+&nbsp;
 ### goals in life: 
 - fix education: create a flagship school (with environment of future as in Alan Kay talk) for future generations 
     -> I spent two summers working in education non-profit! I really care
@@ -95,6 +81,7 @@ permalink: /Life plan/
     -> any audacious engineering projects require pushing boundary of material science 
 - built a flagship SpaceX-like engineering company that represents Japan, like Toyota/Sony
 
+&nbsp;
 ### Questions:
 - what to do with software shrinking opportunities in many industries (starting from music, journalism) 
 - why were "moonshot" projects in the past successful?
@@ -102,10 +89,12 @@ permalink: /Life plan/
     - mahattan project - development of atomic bomb in only 6 years (1939~1945) 
     - apollo project - landing in man on moon within a decade
 
+&nbsp;
 ## 2032 - 13th year in industry (37) to 2042 - 23th year in industry (47)
 - use the capital accumulated in the last ten years to finance audacious projects
 - project 1. built a flagship SpaceX-like engineering company that represents Japan, at the scale of Toyota/Sony (top of the nikkei index)
 
+&nbsp;
 ## 2042 - 23th year in industry (47) to 2052 - 33th year in industry (57)
 - project 2. build a world-class material science/microbiology R/D for space exploration 
     -> joy from talking to researchers / process of scientific discovery
@@ -113,28 +102,36 @@ permalink: /Life plan/
     -> low budget commited for ~10 year period
 - would like to start building institutions/foundations to push humanity outward to space
 
+&nbsp;
 ## 2052 - 33th year in industry (57) to 2062 - 43th year in industry (67) 
 - project 3. fix education: create a flagship school (with environment of future as in Alan Kay talk) for future generations 
     - concerned with children in developing countries falling behind to developed countries concentrating resource on fewer children (possibly gene editing)
     - by this time, we need to make sure people are not discredited as useless by large computers/algorithms. People ARE ESSENTIAL for generating data to train better AI models. Should transfer from free-open web -> micropayment economy where people are given credit for their work. 
 
+&nbsp;
 ## 2062 - 43th year in industry (67) to 2072 - 53th year in industry (77)
 - project 4. ?
     - solidify the institutions build until 
 
+&nbsp;
 ## 2072 - 53th year in industry (77) to 2082 - 63th year in industry (87)
 - project 5. ?
 
+&nbsp;
 ## 2082 - 63th year in industry (87) to 2092 - 73th year in industry (97)
 - project 6. ?
     - invest accumulated wealth to new generation of entrepreneurs/engineers/scientists
     - cool to see technolgy created in research laboratories used by companies for ambitious endeavours
     - help researchers in laboratories build good companies and create great jobs in the industry
 
+&nbsp;
 ## 2092 - 73th year in industry (97) to 2095 - Dead (100)
 - start writing a biography about myself
 - follow Newton, make memorable stories (apple falling story) for propensity to remember me by 
 - give public lectures on what I did in my life
 
+&nbsp;
 ## 2095 - Dead (100)
 - not planning to live past 100, don't see any reason to live beyond 
+
+&nbsp;
