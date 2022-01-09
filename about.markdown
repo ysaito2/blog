@@ -35,7 +35,9 @@ I identified six projects that I want to work on during my lifetime. Each projec
 
 &nbsp;
 
-The structure of the project will be the following: 
+The structure of the project will be the following. I added more reviews upfront since there is potential to make large improvements to optimize the projects:  
+
+&nbsp;
 
 **end of year 1.** 
 - Make sure the goal for the next 10 years is expressed clearly, with KPIs so that success (or failure) can be measured properly
@@ -62,22 +64,74 @@ The structure of the project will be the following:
 - review the result of the project
 - list lessons to learned that can be translated to future projects
 
+&nbsp;
+
 ### project list
 
-- project 1. built a flagship SpaceX-like engineering company that represents Japan, like Toyota/Sony
+**project 1.** 
+Built a flagship SpaceX-like engineering company that represents Japan, at a scale equivalent to Toyota/Sony
 
 &nbsp;
 
-- project 2. build a world-class material science/microbiology R/D for space exploration 
-    - I realized I enjoy talking to researchers / process of scientific discovery
-    - five nobel prizes from the institution within 5 decades 
-    - low budget commited for ~10 year period
-    - any audacious engineering projects require pushing boundary of material science 
+Background:
+ The progress made in developed countries are showing signs of stagnation. Though developing countries, including China, are making rapid progress by following the footsteps of developed nations, there is no clear indication that they have solution for the next steps mankind will take. 
 
 &nbsp;
 
-- project 3. fix education: create a flagship school (with environment of future as in Alan Kay talk) for future generations 
-    - I spent two summers working in education non-profit! I really care
+Reason:
+ I believe one solution to develop *developed* countries is for future entrepreneurs to adopt the methodology that Elon Musk follows to pursue audacious projects. It would be exciting to see thousands of Elon Musk-styled businesses springing up around the world taking a highly effective approach to solving world problems. The company will demonstrate that Elon's approach can be applied by any organization around the world. 
+
+&nbsp;
+
+Concept: 
+
+&nbsp;
+
+KPIs: 
+- number one company traded on the nikkei index
+
+&nbsp;
+
+**project 2.** 
+Build a world-class material science/microbiology R/D for space exploration 
+
+&nbsp;
+
+Background: 
+The Space X Starship in development now is planning to reach orbit by the end of this year. Having the capacity to launch over a hundred passengers, we will see an unprecedented number of visitors to space, mainly to the most accessible LEO, in the next 5-10 years. 
+
+&nbsp;
+
+Reason: 
+- current space technologies to sustain human life are too exotic/expensive for millions of people to have access to
+- there is a need for development of substitute materials that will reduce costs and increase manufactorability 
+
+&nbsp;
+
+Concept: 
+- low budget commited for ~10 year period
+- small number of elite scientists (20-30) gathered from worldwide 
+
+&nbsp;
+
+KPIs:
+- five nobel prizes from the institution within 5 decades 
+
+&nbsp;
+
+**project 3.** fix education by creating a flagship school 
+
+Background:
+Education has made little to no progress in the last 100 years. Children are taught the exact same as 
+
+Reason:
+TBD
+
+Concept: 
+implement the environment of future proposed by Alan Kay
+
+KPIs:
+TBD
 
 &nbsp;
 
