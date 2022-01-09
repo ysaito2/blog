@@ -33,9 +33,9 @@ permalink: /Life plan/
 &nbsp;
 
 ### Summary
-- I feel generally I could not commit to any field due to lack of understanding myself. If I knew I wanted to become an engineer in space industry at age 18, with laser-focused on a goal (i.e. getting a job in spacex), I would have been able to accomplish it  
+- I feel I could not commit to any field due to lack of understanding myself. If I knew I wanted to become an engineer in space industry at age 18, with laser-focused on a goal (i.e. getting a job in spacex), I would have been able to accomplish it  
 - I was able to get a full understanding of my priorities. With my priorities straighted out, I now don't have any doubt in my judgements. 
-- In the last 10 years, through working on various projects, I have a high confidence on my capabilities to make clear, rational judgements.
+- I now have a high confidence on my capabilities to make clear, rational judgements.
 
 &nbsp;
 
@@ -49,45 +49,25 @@ permalink: /Life plan/
 
 ### Details: 
 - build first company 
-    - be an *international* business to take advantage of background
+    - be an *international* business
     - customers should be able to *buy* good/service online
     - build a product that I can *brag* about to friends
-    - product should be built within *3 months* 
+    - first product should be built within *3 months* 
     - make a sales within *6 months*
     - strong engineering/science foundation
 
 &nbsp;
 ### Thoughts
-- imagining an Intel-like company, taking science in laboratories and bringing the technology to society to revolutionalize the world (integrated circuits is an invention that had to be done by industry)
+- Imagining an Intel-like company, taking science in laboratories and bringing the technology to society to revolutionalize the world (integrated circuits is an invention that had to be done by industry)
 - I think my role that fits me is to take good science in laboratories and scale the technology in industry to bring to masses (bridge between labs and industry)
-- build skills that make you productive / do what you want to do from mid-thirties onwards
+- Build skills that make you productive / do what you want to do from mid-thirties onwards
 - It would be interesting for the science field to be one where it defuses to all industries since I get bored pretty quickly
-- technology is a great way to cheat, do more with less 
-- learning history is a way to cheat by learning from mistakes made in past
+- Technology is a great way to cheat, do more with less 
+- Learning history is a way to cheat by learning from mistakes made in past
     - by reading books, like wakata-san in simulating robotic arm on ISS the day before (he spents an entire day in the simulator), you can avoid mistakes by paying with your own time. Mistakes in the real world have to be paid with jobs, millions of dollars, and worst case harm to consumers/society
-- it wouldn't make sense to start a company unless you can grow faster than 10% every year (standard for index funds)
-- do 20% currency (fiat 50%, crypto 50%), 80% index fund considering its vital for the micropayment economy to be successful
-- interesting fields: metaverse+VR+AR (unreal), micropayment (cardano), reinforcement learning (deepmind, comma.ai, tesla), material science (?), microbiology/synthetic biology (the odin). space exploration (spaceX)
+- It wouldn't make sense to start a company unless you can grow faster than 10% every year (standard for index funds)
+- Interesting fields: metaverse+VR+AR (unreal), micropayment (cardano), reinforcement learning (deepmind, comma.ai, tesla), material science (?), microbiology/synthetic biology (the odin). space exploration (spaceX)
 - What's something that will be valuable in the next 10 years? What are changes that will happen between 2022 - 2032? 
-
-&nbsp;
-### goals in life: 
-- fix education: create a flagship school (with environment of future as in Alan Kay talk) for future generations 
-    -> I spent two summers working in education non-profit! I really care
-- build a world-class material science/microbiology R/D for space exploration 
-    -> I realized I enjoy talking to researchers / process of scientific discovery
-    -> five nobel prizes from the institution within 5 decades 
-    -> low budget commited for ~10 year period
-    -> any audacious engineering projects require pushing boundary of material science 
-- built a flagship SpaceX-like engineering company that represents Japan, like Toyota/Sony
-
-&nbsp;
-### Questions:
-- what to do with software shrinking opportunities in many industries (starting from music, journalism) 
-- why were "moonshot" projects in the past successful?
-    - xerox parc - all technology for personal computers created by 25 researchers, $10M a year for 5 years 
-    - mahattan project - development of atomic bomb in only 6 years (1939~1945) 
-    - apollo project - landing in man on moon within a decade
 
 &nbsp;
 ## 2032 - 13th year in industry (37) to 2042 - 23th year in industry (47)
