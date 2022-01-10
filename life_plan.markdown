@@ -74,14 +74,11 @@ permalink: /Life plan/
 &nbsp;
 ## 2032 - 13th year in industry (37) to 2042 - 23th year in industry (47)
 - use the capital accumulated in the last ten years to finance audacious projects
-- project 1. built a flagship SpaceX-like engineering company that represents Japan, at the scale of Toyota/Sony (top of the nikkei index)
+- project 1. built a flagship SpaceX-like engineering company that represents Japan
 
 &nbsp;
 ## 2042 - 23th year in industry (47) to 2052 - 33th year in industry (57)
 - project 2. build a world-class material science/microbiology R/D for space exploration 
-    -> joy from talking to researchers / process of scientific discovery
-    -> five nobel prizes from the institution within 5 decades 
-    -> low budget commited for ~10 year period
 - would like to start building institutions/foundations to push humanity outward to space
 
 &nbsp;
