@@ -21,21 +21,21 @@ permalink: /about/
 
 ### questions
 - what to do with software shrinking opportunities in many industries (starting from music, journalism) 
-    - is the open/free concept the only way for the internet?
+    - in the current projection, computers will have disasterous effects on remaining industries
 - why were "moonshot" projects in the past successful?
-    - xerox parc - all technology for personal computers created by 25 researchers, $10M a year for 5 years 
+    - xerox parc - 9 key technologies for personal computers created by 25 researchers, $10M a year for 5 years 
     - mahattan project - development of atomic bomb in only 6 years (1939~1945) 
-    - apollo project - landing in man on moon within a decade
+    - apollo project - landing a man on moon within a decade
 - how do you develop developed countries?
 
 
 &nbsp;
 ### life as a projects concept 
-I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews, just like a NASA project, to make sure the project is progressing accordingly. The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. My assumption is that medical technologies will be advanced enough that I will have a sharp mind/ physically healthy until I die, in which case I should be able to work on six projects. 
+I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. Under my assumption that medical technologies will be advanced enough that I will have a sharp mind/ physically healthy until I die, I should be able to work on six projects. 
 
 &nbsp;
 
-The structure of the project will be the following. I added more reviews upfront since there is potential to make large improvements to optimize the projects:  
+I added more reviews upfront since there is potential to make large improvements to optimize the projects:  
 
 &nbsp;
 
@@ -69,66 +69,74 @@ The structure of the project will be the following. I added more reviews upfront
 ### project list
 
 **project 1.** 
+
 Built a flagship SpaceX-like engineering company that represents Japan, at a scale equivalent to Toyota/Sony
 
 &nbsp;
 
 Background:
- The progress made in developed countries are showing signs of stagnation. Though developing countries, including China, are making rapid progress by following the footsteps of developed nations, there is no clear indication that they have solution for the next steps mankind will take. 
+
+The progress made in developed countries are showing signs of stagnation. Though developing countries, including China, are making rapid progress by following the footsteps of developed nations, there is no clear indication that they have solution for the next steps mankind will take. 
 
 &nbsp;
 
 Reason:
+
  I believe one solution to develop *developed* countries is for future entrepreneurs to adopt the methodology that Elon Musk follows to pursue audacious projects. It would be exciting to see thousands of Elon Musk-styled businesses springing up around the world taking a highly effective approach to solving world problems. The company will demonstrate that Elon's approach can be applied by any organization around the world. 
 
 &nbsp;
 
-Concept: 
-
-&nbsp;
-
 KPIs: 
+
 - number one company traded on the nikkei index
 
 &nbsp;
 
+
 **project 2.** 
+
 Build a world-class material science/microbiology R/D for space exploration 
 
 &nbsp;
 
-Background: 
+Background
+
 The Space X Starship in development now is planning to reach orbit by the end of this year. Having the capacity to launch over a hundred passengers, we will see an unprecedented number of visitors to space, mainly to the most accessible LEO, in the next 5-10 years. 
 
 &nbsp;
 
-Reason: 
+Reason
+
 - current space technologies to sustain human life are too exotic/expensive for millions of people to have access to
 - there is a need for development of substitute materials that will reduce costs and increase manufactorability 
 
 &nbsp;
 
-Concept: 
+Concept
+
 - low budget commited for ~10 year period
 - small number of elite scientists (20-30) gathered from worldwide 
 
 &nbsp;
 
-KPIs:
+KPIs
+
 - five nobel prizes from the institution within 5 decades 
 
 &nbsp;
 
 **project 3.** fix education by creating a flagship school 
 
-Background:
-Education has made little to no progress in the last 100 years. Children are taught the exact same as 
+Background
+
+Education has made little to no progress in the last 100 years. Many bright minds have taken a shot at fixing it, but has not been successful. 
 
 Reason:
 TBD
 
 Concept: 
-implement the environment of future proposed by Alan Kay
+
+implement the environment of future proposed by Alan Kay in schools
 
 KPIs:
 TBD

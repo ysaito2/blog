@@ -20,7 +20,15 @@ permalink: /Life plan/
  - practiced skills in communication (writing + public speaking)
  - learning how to learn
  - lots of reading (microbiology, machine learning, history, economics, history of industries, technology+society, CAD, VR, electronics, computers, physics)
- - know where to go for information in the intellectual community (comma.ai(george hotz), space exploration(robert zubrich), coding, FHI, 80,000 hours, effective alturism, lex friedman podcast, the odin (Josiah Zayner), good books, etc)
+ - know where to go for information in each space
+    - autonomous driving - comma.ai (george hotz)
+    - space exploration (robert zubrich), everyday astranaut
+    - FHI, 
+    - 80,000 hours, 
+    - effective alturism, 
+    - lex friedman podcast, 
+    - the odin (Josiah Zayner), 
+    - cardano (chris hitchinson)
  - after learning/doing many things, I have confidence that I can solve any problem, do well in any challenge I face
  - fairly good understanding of who I am (what I like, what I don't like, what I'm good at, what I'm bad at)
 
@@ -44,7 +52,7 @@ permalink: /Life plan/
 ## 2022 - 3rd year in industry (27) to 2032 - 13th year in industry (37)
 ### Primary goals
 - sole purpose of the 10 years until 37 *should be to accumulate capital for future endeveours*
-- obtain a fortune generate revenue of ~$1B that can be used to invest in ambitious endeavour
+- generate revenue of ~$1B that can be used to invest in ambitious endeavour
 - learn how to run/operate a business 
 
 &nbsp;
@@ -70,6 +78,46 @@ permalink: /Life plan/
 - It wouldn't make sense to start a company unless you can grow faster than 10% every year (standard for index funds)
 - Interesting fields: metaverse+VR+AR (unreal), micropayment (cardano), reinforcement learning (deepmind, comma.ai, tesla), material science (?), microbiology/synthetic biology (the odin). space exploration (spaceX)
 - What's something that will be valuable in the next 10 years? What are changes that will happen between 2022 - 2032? 
+- business has to be capable with low initial capital (software-heavy)
+- I want the first business to be create a platform for subsequent businesses 
+- what's the problem with the current software?
+- want to build an exclusive supercomputer for future endeveours for massive parallel computation
+- Join portion of industry that removes the lottery ticket element - rockefeller
+- Generate a fairly predictable income by 2025
+- investment is a long waiting process, by building companies and technology we can bring the future faster
+- what is something you could do now that you can't do any time else? 
+    - cardano 
+        - rising platform, now would be the best time to go on and do something
+        - also, if we do NOT transfer from a open-free economy to a micropayment economy where people are given credit for their work, all industries will follow music/journalism wipe out a middle-class
+    - unreal engine 
+        - another rising platform, a lot of developments happening, cool platform to build something on
+    - space exploration 
+        - starship development progress should be noted 
+        - it will take at least another 5 years until regular flights are open to public 
+        - opportunity should rise with low cost + more human launches than every before 
+        - i feel many people are waiting opportunity to make EVA spacesuits
+        - cheap/mass produced life support systems should be next
+    - renewable energy 
+        - regulations choose the winner!
+        - virtual powerplants, software mediated energy network 
+        - fairly slow progress, 
+        - interesting developments in developing country microgrids
+    - life sciences 
+        - huge progress in neuroscience in academia,
+        - worth noting reduction in DNA sequencing costs, human genome project hasn't contributed to development of new medical treatment. 
+        - interesting community lead movements like 
+        - many optimistic forecasts but biology is super hard and messy!
+        - long development times to ensure safety, not a short pratical startup 
+    - material science 
+        - potential to push up all other industries, 
+        - developments are an ongoing process, 
+        - will deepmind come up with AI system for material discovery?  
+    - AGI 
+        - Ben A. building a network of AI, 
+        - credit system for contributing datasets
+    - reinforcement learning 
+        - i think opportunity will come up when FSD is solved and many applications for real-world AI immerges
+        - comma.ai and tesla are ahead of the pack 
 
 &nbsp;
 ## 2032 - 13th year in industry (37) to 2042 - 23th year in industry (47)
