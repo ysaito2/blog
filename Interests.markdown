@@ -101,8 +101,7 @@ permalink: /Interests/
 - projects using the fugaku supercomputer have just started (April, 2021) and should have interesting results in the upcoming years
     - current applications are mostly in large scale simulations like wind turbines, coal powerplants, wind farms, and new drugs
 - **interesting discussions on decenteralizing the chemical industry reliant on fossil fuel to a biomass chemistry industry in japan academia** 
-- the bottleneck for other industries (space exploration, renewables, sustainablility) ending up being current materials being too expensive or non-existent so 
-    - success in material development can have massive impacts to other industries 
+- the bottleneck for other industries (space exploration, renewables, sustainablility) ending up being current materials being too expensive or non-existent so success in material development can have massive impacts to other industries 
 - for japan, with great applied physists and chemists, this will be the key strategic industry to focus on (together with biology) 
 - i think material science is a good field to be good at, but you want to be in the field to apply the technology to get the most benefit (and money, of course!)
 - pro

@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 ### who I respect 
- Patrick Collison, George Hotz, Josiah Zayner, Jaron Lanier, Charles Hoskinson, Elon Musk, Henry Ford, Walt Disney, Ted Turner, Intel trinity, Bill Gates, Jaron Lanier, Alan Kay, Robert Zubrich (mars society), Charles Hoskinson (cardano), Shibusawa Eichi
+ Patrick Collison, George Hotz, Josiah Zayner, Jaron Lanier, Elon Musk, Henry Ford, Walt Disney, Ted Turner, Intel trinity, Bill Gates, Alan Kay, Robert Zubrich, Charles Hoskinson, Shibusawa Eichi, John D. Rockefeller
 
 &nbsp;
 
 ### academia
- Marvin Minsky, Steven Pinker, Niel Ferguson, Richard Feynman, Miyzaki Ichisada
+ Marvin Minsky, Steven Pinker, Niel Ferguson, Richard Feynman, Miyzaki Ichisada, 
 
 &nbsp;
 

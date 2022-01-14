@@ -4,11 +4,7 @@ title: Projects
 permalink: /Projects/
 ---
 
-I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. 
-
-&nbsp;
-
-I added more reviews upfront since there is potential to make large improvements to optimize the projects. 
+I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. I added more reviews upfront since there is potential to make large improvements to optimize the projects. 
 
 &nbsp;
 
@@ -107,7 +103,8 @@ Concept
 
 implement the environment of future proposed by Alan Kay in schools
 
-KPIs:
+KPIs
+
 TBD
 
 &nbsp;
@@ -149,3 +146,4 @@ Reason
 
 ### project 6. 
 
+TBD
