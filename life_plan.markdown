@@ -56,6 +56,7 @@ permalink: /Life plan/
 - sole purpose of the 10 years until 37 *should be to accumulate capital for future endeveours*
 - generate revenue of ~$1B that can be used to invest in ambitious endeavour
 - learn how to run/operate a business 
+- project protect_jobs - implement the micro-finance system to give credit to people generating data (how to implement in manufactoring and other industries)
 
 &nbsp;
 
@@ -93,27 +94,27 @@ permalink: /Life plan/
 &nbsp;
 ## 2032 - 13th year in industry (37) to 2042 - 23th year in industry (47)
 - use the capital accumulated in the last ten years to finance audacious projects
-- project 1. built a flagship SpaceX-like engineering company that represents Japan
+- project engineering. built a flagship SpaceX-like engineering company that represents Japan
 
 &nbsp;
 ## 2042 - 23th year in industry (47) to 2052 - 33th year in industry (57)
-- project 2. build a world-class material science/microbiology R/D for space exploration 
+- project science. build a world-class material science/microbiology R/D for space exploration 
 - would like to start building institutions/foundations to push humanity outward to space
 
 &nbsp;
 ## 2052 - 33th year in industry (57) to 2062 - 43th year in industry (67) 
-- project 3. fix education: create a flagship school (with environment of future as in Alan Kay talk) for future generations 
+- project create_industry. Decenteralizing the chemical industry reliant on fossil fuel to a biomass chemical industry (japan academia Kyushuu University prof)
 - concerned with children in developing countries falling behind to developed countries concentrating resource on fewer children (possibly of gene editing new borns in developed nations)
 - by this time, we need to make sure people are not discredited as useless by large computers/algorithms. People ARE ESSENTIAL for generating data to train better AI models. Should transfer from free-open web -> micropayment economy where people are given credit for their work. 
 
 &nbsp;
 ## 2062 - 43th year in industry (67) to 2072 - 53th year in industry (77)
-- project 4. ?
+- project education. fix education: create a flagship school (with environment of future as in Alan Kay talk) for future generations 
 - solidify the institutions build until this time
 
 &nbsp;
 ## 2072 - 53th year in industry (77) to 2082 - 63th year in industry (87)
-- project 5. ?
+- project ?
 - I hope medical technologies is advanced enough that my mind is still sharp
 
 &nbsp;
