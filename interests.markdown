@@ -123,10 +123,10 @@ permalink: /Interests/
     - credit system for contributing datasets - marketocean
     - sophia robot!
 - both movements are interesting and one step towards the correct direction
+- taking the right step forward
+- interesting development to keep an eye on time-to-time
 - honestly, a bit wacky cannot see the timeline 
 - pro
-    - taking the right step forward
-    - interesting development to keep an eye on time-to-time
     - potential to solve many problems
 - con
     - i think we are still a long way ahead

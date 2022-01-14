@@ -39,7 +39,7 @@ I identified six projects that I want to work on during my lifetime. Each projec
 
 ## project list
 
-### project 1.
+### project engineering
 
 Built a flagship SpaceX-like engineering company that represents Japan, at a scale equivalent to Toyota/Sony
 
@@ -64,7 +64,7 @@ I believe one solution to develop *developed* countries is for future entreprene
 &nbsp;
 
 
-### project 2.
+### project science
 
 Build a world-class material science/microbiology R/D center to push the envelope of what's possible
 
@@ -89,7 +89,7 @@ KPIs
 
 &nbsp;
 
-### project 3.
+### project education
 
 fix education by creating a flagship school 
 
@@ -105,24 +105,24 @@ TBD
 
 &nbsp;
 
-### project 4.
+### project decenteralized-industry
 
 Decenteralizing the chemical industry reliant on fossil fuel to a biomass chemical industry (japan academia Kyushuu University prof)
 
 Background
 
-As jobs and industries become more concentrated in the cities, since Henry Ford's times, we need to create industries for small towns/farms to create income around the world. This would alleviate poverty/social instability not just in developing countries, but around the world. 
+As jobs and industries become more concentrated in the cities, since Henry Ford's times, we need to create decenteralized industries for small towns/farms to create income around the world. This would alleviate poverty/social instability around the world. 
 
 Reason
 
 - help reduce the reliance on unstable global trade network by producing/consuming on site
 - create opportunities and jobs in rural parts of the world
-- the business can be scaled globally 
+- the business of providing resources to help setup factories can be scaled globally 
 - help solve the trash, pollution problem (primarily in developing countries like india)
 
 &nbsp;
 
-### project 5.
+### project human-centeric-industry
 
 implement the micro-finance system to give credit to people generating data ( how to implement in manufactoring and other industries)
 
