@@ -15,6 +15,7 @@ permalink: /Interests/
     - able to understand how finance will work in this century
 - Con: 
     - ways to monetize the business is unclear
+    - hard to predict the timeline of adoption in the real world
 
 &nbsp;
 
@@ -83,9 +84,11 @@ permalink: /Interests/
 - anything that will be fed into human bodies require long development times to ensure safety, not a quick pratical startup 
 - again, the technology agnostic will be in software since there are many measurement techniques in development for wearable medical devices with no clear winner
 - i think bio-hacking will continue to be a fun hobby for me, not a means of making money 
+- automation of dna sequence -> simulation -> synthesis -> testing for generating data is done for synthetic biology, just like for material science
 - pro
     - lots of energy in the community, many interesting people 
     - experiments are super fun and cool
+    - 
 - con
     - hard  
     - takes many years to get products/services to market
