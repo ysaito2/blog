@@ -89,7 +89,6 @@ permalink: /Life plan/
 - Generate a fairly predictable income by 2025
 - investment is a long waiting process, by building companies and technology we can bring the future faster
 - what is something you could do now that you can't do any time else? 
-
     - cardano 
         - rising platform, **now would be the best time to go on and do something**
         - if we do NOT transfer from a open-free economy to a micropayment economy where people are given credit for their work, all industries will follow music/journalism wipe out a middle-class
@@ -101,7 +100,7 @@ permalink: /Life plan/
             - way to monetize the business is unclear
 
     - unreal engine (AR+VR+metaverse)
-        - another rising platform, a lot of developments happening now like a new program language 
+        - another rising platform, a lot of developments happening now like development of a new programming language 
         - cool platform to build something on
         - even though it was fun, I realized fiddling around with game engines is too tedious for me!
 

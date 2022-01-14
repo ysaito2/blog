@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline of events to come 
+title: Timeline 
 permalink: /Timeline/
 ---
 
