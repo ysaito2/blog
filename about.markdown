@@ -5,17 +5,17 @@ permalink: /about/
 ---
 
 ## my values
-I have listed five key areas that I will dedicate my career. 
+I have listed five key areas that I believe are the most important during my lifetime. 
 
 &nbsp;
 ### engineering
 
-Amongst the exciting achievements have been to be done, I believe this century will be remembered as the first century when humanity set out to colonize space. I want my role to build technology, like low cost spacesuit, life support systems, space habitats, to enable millions to live, work, and raise their families outside of our planet. We've made extraordinary progress in the last two centuries. We need to move away from incremental progress and go back to setting ambition goals. 
+Amongst the exciting achievements have been to be done, I believe this century will be remembered as the first century when humanity set out to colonize space. I want my role to build technology, like low cost spacesuit, life support systems, space habitats. This developments will enable millions to live, work, and raise their families outside of our planet. We've made extraordinary progress in the last two centuries. We need to move away from incremental progress and go back to setting ambition goals. 
 
 &nbsp;
 ### science
 
-Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but future generations to build new technologies that push the frontier of mankind. I will dedicate my resources to creating and supporting research institutes around the world tackling the challenging questions of the era.  
+Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but future generations to build new technologies that push the boundary to realize what was thought to be *impossible* is *possible*. I will dedicate my resources to creating and supporting research institutes around the world tackling the challenging questions of our era.  
 
 &nbsp;
 ### education
@@ -30,7 +30,7 @@ Technological advancements like biomass-chemical industry, microgrids, and 3D pr
 &nbsp;
 ### human-centeric-industry
 
-If we continue our current trajectory, we are heading into a future where *nobody can make a living with their jobs* due to networked computers. We need to course-correct to create a society which gives credit to contributing data, knowledge, and work to improve the algorithms that will run our society. I strongly believe retaining and protecting the market dynamics should be prioritized above universal basic income. The faster the micropayment economy is implemented, the more industries we can keep thriving with opportunities and jobs for all.
+If we continue our current trajectory, we are heading into a future where *nobody can make a living with their jobs* due to networked computers. We need to course-correct to create a society which gives credit to contributing data, knowledge, and work to improve the algorithms that will run our society. I strongly believe *protecting the market dynamics should be prioritized* above universal basic income. The faster the micropayment economy is implemented, the more industries we can keep thriving with opportunities and jobs for all.
 
 &nbsp;
 

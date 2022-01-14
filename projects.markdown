@@ -4,39 +4,9 @@ title: Projects
 permalink: /Projects/
 ---
 
-I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. I added more reviews upfront since there is potential to make large improvements to optimize the projects. 
+I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. 
 
 &nbsp;
-
-## Project timeline
-
-**end of year 1.** 
-- Make sure the goal for the next 10 years is expressed clearly, with KPIs so that success (or failure) can be measured properly
-- Make sure the goal is *relevant* with the timeframe you are working on (don't start a project too early or too late)
-- Run some small scale experiments to check bottlenecks. Flush out the risks involved in the projects. Brainstorm ideas to overcome the risks. 
-
-&nbsp;
-
-**end of year 3.**
-- Check with the KPIs of the project to assess progress.
-- Is it progressing accordingly? If it is not, this would be the time to radically change approach. 
-
-&nbsp;
-
-**end of year 5**
-- Check with the KPIs of the project to assess progress.
-- Find out what are bottlenecks in the progress of project, make minor changes as required
-- There should be **NO radical changes** to the approach at this stage. Even if your stuck with an less than optimal approach, stick with your guns
-- Review improvements that can be made. Implement to guide the project to success in the next five years
-
-&nbsp;
-
-**end of year 10.** 
-- review the result of the project
-- list lessons to learned that can be translated to future projects
-
-&nbsp;
-
 ## project list
 
 ### project engineering
@@ -141,3 +111,38 @@ Reason
 ### project TBD 
 
 TBD
+
+&nbsp;
+
+## Project timeline
+
+The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. I added more reviews upfront since there is potential to make large improvements to optimize the projects. 
+
+&nbsp;
+
+**end of year 1.** 
+- Make sure the goal for the next 10 years is expressed clearly, with KPIs so that success (or failure) can be measured properly
+- Make sure the goal is *relevant* with the timeframe you are working on (don't start a project too early or too late)
+- Run some small scale experiments to check bottlenecks. Flush out the risks involved in the projects. Brainstorm ideas to overcome the risks. 
+
+&nbsp;
+
+**end of year 3.**
+- Check with the KPIs of the project to assess progress.
+- Is it progressing accordingly? If it is not, this would be the time to radically change approach. 
+
+&nbsp;
+
+**end of year 5**
+- Check with the KPIs of the project to assess progress.
+- Find out what are bottlenecks in the progress of project, make minor changes as required
+- There should be **NO radical changes** to the approach at this stage. Even if your stuck with an less than optimal approach, stick with your guns
+- Review improvements that can be made. Implement to guide the project to success in the next five years
+
+&nbsp;
+
+**end of year 10.** 
+- review the result of the project
+- list lessons to learned that can be translated to future projects
+
+&nbsp;
