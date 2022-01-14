@@ -12,6 +12,8 @@ I added more reviews upfront since there is potential to make large improvements
 
 &nbsp;
 
+## Project timeline
+
 **end of year 1.** 
 - Make sure the goal for the next 10 years is expressed clearly, with KPIs so that success (or failure) can be measured properly
 - Make sure the goal is *relevant* with the timeframe you are working on (don't start a project too early or too late)
@@ -39,34 +41,34 @@ I added more reviews upfront since there is potential to make large improvements
 
 &nbsp;
 
-### project list
+## project list
 
-**project 1.** 
+### project 1.
 
 Built a flagship SpaceX-like engineering company that represents Japan, at a scale equivalent to Toyota/Sony
 
 &nbsp;
 
-Background:
+**Background**
 
 The progress made in developed countries are showing signs of stagnation. Though developing countries, including China, are making rapid progress by following the footsteps of developed nations, there is no clear indication that they have solution for the next steps mankind will take. 
 
 &nbsp;
 
-Reason:
+**Reason**
 
- I believe one solution to develop *developed* countries is for future entrepreneurs to adopt the methodology that Elon Musk follows to pursue audacious projects. It would be exciting to see thousands of Elon Musk-styled businesses springing up around the world taking a highly effective approach to solving world problems. The company will demonstrate that Elon's approach can be applied by any organization around the world. 
+I believe one solution to develop *developed* countries is for future entrepreneurs to adopt the methodology that Elon Musk follows to pursue audacious projects. It would be exciting to see thousands of Elon Musk-styled businesses springing up around the world taking a highly effective approach to solving world problems. The company will demonstrate that Elon's approach can be applied by any organization around the world. 
 
 &nbsp;
 
-KPIs: 
+**KPIs**
 
 - number one company traded on the nikkei index
 
 &nbsp;
 
 
-**project 2.** 
+### project 2.
 
 Build a world-class material science/microbiology R/D center to push the envelope of what's possible
 
@@ -91,7 +93,7 @@ KPIs
 
 &nbsp;
 
-**project 3.** 
+### project 3.
 
 fix education by creating a flagship school 
 
@@ -110,7 +112,7 @@ TBD
 
 &nbsp;
 
-**project 4.** 
+### project 4.
 
 Decenteralizing the chemical industry reliant on fossil fuel to a biomass chemical industry (japan academia Kyushuu University prof)
 
@@ -127,7 +129,7 @@ Reason
 
 &nbsp;
 
-**project 5.** 
+### project 5.
 
 implement the micro-finance system to give credit to people generating data ( how to implement in manufactoring and other industries)
 
@@ -145,4 +147,5 @@ Reason
 
 &nbsp;
 
-- project 6. TBD
+### project 6. 
+
