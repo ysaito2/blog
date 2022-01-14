@@ -145,3 +145,34 @@ permalink: /Interests/
 - con
     - little bit late/early to join at the current time
     - after FSD solved, more opportunities should rise (why stop with cars?)
+
+&nbsp;
+
+## EVA spacesuits
+- material that contracts instead of expanding due to internal pressure
+- how to get high mobility when inflated with air?
+- negative possion ratio (fatter cross-section when stretched)
+- largely a structural, material science problem
+- greatly simplify the suit design
+- women's underwear corsett used to be custom-ordered
+    - reinvented as consumer product by new rubber material 
+- cost reduction methods
+    - can use auxetic material to manufacture suit design (beyond developable: computational designa nd fabrication with auxetic material)
+    - flexible in deployment but stiff in deployed state
+- goal to replace craftmanship from spacesuits
+- none of the materials sued for appollo was invented; all reuse from earth applications
+- one time disposable 
+    - nobody in commercial space will do proper maintenance
+    - shorten testing/development time 
+    - demand for immediate use in iss/nasa 
+- how to responsibly dispose the suit?
+- single use simplified design and reduces development time
+- absorbant 
+    - LiOH (non-regenerative) or metal oxide lattice absorbant (regenerative)
+    - 144 g CO2 for 4 hours -> $5 of LiOH needed
+- pro
+    - cool technology that many people want to do
+    - beginning of a new industry 
+- con
+    - too early to join
+    - hard to get a accurate projection of events 
