@@ -15,7 +15,7 @@ Amongst the exciting achievements have been to be done, I believe this century w
 &nbsp;
 ### science
 
-Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but fir future generations to build new technologies that push the boundary to realize what was thought to be *impossible* is *possible*. I will dedicate my resources to creating and supporting research institutes around the world tackling the conventions of our era.
+Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but for future generations to push the boundary to realize what was thought to be *impossible* is *possible*. I will dedicate my resources to creating and supporting research institutes around the world tackling the conventions of our era.
 
 &nbsp;
 ### education
