@@ -25,7 +25,7 @@ permalink: /Interests/
 - tried integrating with reinforcement learning, but since game engines are **not reproducable** every simulation, it cannot be used for QA testing of vision-based AI models
 - pro
     - fun to play around with 
-    - it could lead to large expansion of economy with digital overlaying reality
+    - it could lead to expansion of economy with digital overlaying reality
 - con 
     - pretty tedious
     - metaverse is a long time away
@@ -126,6 +126,10 @@ permalink: /Interests/
 - i think opportunity will come up when FSD is solved and many applications for real-world AI immerges
 - tesla/comma.ai are ahead of the pack for real world systems, deepmind for solving hard science problems
 - many applications of vision-based AI systems
+- projects run by deepmind have potential to cascade to many industries
 - pro
-    
+    - opportunity to make difference in many industries
+    - lots of energy in the domain 
 - con
+    - little bit late/early to join at the current time
+    - after FSD solved, more opportunities should rise (why stop with cars?)
