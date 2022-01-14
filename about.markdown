@@ -31,7 +31,7 @@ permalink: /about/
 
 &nbsp;
 ### life as a projects concept 
-I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. Under my assumption that medical technologies will be advanced enough that I will have a sharp mind/ physically healthy until I die, I should be able to work on six projects. 
+I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. The timeline of the projects will have to reiterated to make adjustments as I figure out the best way it works for me. 
 
 &nbsp;
 
@@ -95,20 +95,13 @@ KPIs:
 
 **project 2.** 
 
-Build a world-class material science/microbiology R/D for space exploration 
+Build a world-class material science/microbiology R/D center to push the envelope of what's possible
 
 &nbsp;
 
 Background
 
-The Space X Starship in development now is planning to reach orbit by the end of this year. Having the capacity to launch over a hundred passengers, we will see an unprecedented number of visitors to space, mainly to the most accessible LEO, in the next 5-10 years. 
-
-&nbsp;
-
-Reason
-
-- current space technologies to sustain human life are too exotic/expensive for millions of people to have access to
-- there is a need for development of substitute materials that will reduce costs and increase manufactorability 
+The bottleneck for many audacious projects like fusion reactors, space elevators, and low cost desalination technology are usually constrained by either existing materials being too expensive or non-existant. Pushing the frontier of material science will have ripple effects on all existing industries, creating new companies and industries. 
 
 &nbsp;
 
@@ -125,16 +118,17 @@ KPIs
 
 &nbsp;
 
-**project 3.** fix education by creating a flagship school 
+**project 3.** 
+
+fix education by creating a flagship school 
+
+&nbsp;
 
 Background
 
 Education has made little to no progress in the last 100 years. Many bright minds have taken a shot at fixing it, but has not been successful. 
 
-Reason:
-TBD
-
-Concept: 
+Concept
 
 implement the environment of future proposed by Alan Kay in schools
 
@@ -143,6 +137,39 @@ TBD
 
 &nbsp;
 
-- project 4. TBD
-- project 5. TBD
+**project 4.** 
+
+Decenteralizing the chemical industry reliant on fossil fuel to a biomass chemical industry (japan academia Kyushuu University prof)
+
+Background
+
+As jobs and industries become more concentrated in the cities, since Henry Ford's times, we need to create industries for small towns/farms to create income around the world. This would alleviate poverty/social instability not just in developing countries, but around the world. 
+
+Reason
+
+- help reduce the reliance on unstable global trade network by producing/consuming on site
+- create opportunities and jobs in rural parts of the world
+- the business can be scaled globally 
+- help solve the trash, pollution problem (primarily in developing countries like india)
+
+&nbsp;
+
+**project 5.** 
+
+implement the micro-finance system to give credit to people generating data ( how to implement in manufactoring and other industries)
+
+Background
+
+Networked computers had destroyed the journalism and music industries by wiping out the middle classes based on the open/free concept of the world-wide web. This trend will cascade to all other industries as time passes with technological advancement (do more with less). The question is "How do you make money when everything is free?". Particularly worrisome is the impact to manufactoring in the far east asia, where we are already seeing the adoption of 3D printers and autonomous robots. 
+
+There needs to be a system implemented where people are given credit for contributing their data/knowledge to automate/improve the system. 
+
+Reason
+
+- there needs to be a system where workers generating data are given credit to automate processes in the manufactoring line
+- as robots generate value, humans should be given credit based on productivity increases
+- 3D models/designs on the web just CANNOT be free; there needs to be a mechanism to give credit to the designer
+
+&nbsp;
+
 - project 6. TBD
