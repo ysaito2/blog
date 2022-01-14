@@ -46,6 +46,10 @@ Another book to read would be "The Case for Mars" by Robert Zubrin, the current 
 
 &nbsp;&nbsp;
 
+I have realized there are glimps of influences by engineering history, like Kelly Johnson, founder of Lockheed Martin's Skunk Works, who advocated for a small elite engineers to tackle audacious projects and keeping the engineers and manufactoring from stone-throw away from each other, like how it is setup at Space-X Hawthrone office. We can also see influences from Paul MacCready, inventor of the human-propelled glider, who designed his glider to be cheap and easy to manufacture such that he can handle 10 crashes a day, which is the approach SpaceX is taking with the Starship development. 
+
+&nbsp;&nbsp;
+
 I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the [white paper](https://www.biorxiv.org/content/10.1101/703801v1) published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and the methods they took to solve them. The annoucements on youtube show a trajectory of the company positioning its identiity, where the earlier annoucement made by the company is clearly a period of "feeling" around the problem. The most recent announcement shows a more clear direction of the company. 
 
 &nbsp;&nbsp;
