@@ -15,12 +15,12 @@ This century will be remembered as the first century when humanity set out to co
 &nbsp;
 ### science
 
-Science allows us define the boundaries of what's possible. It is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but for future generations to push the boundary to realize what was thought to be *impossible* is *possible*. I will dedicate my resources to creating and supporting research institutes around the world tackling the conventions of our era.
+Science allows us define the boundaries of what's possible. It is important to continue pushing forward with our understanding of the natural world to realize what was thought to be *impossible* is *possible*. I will dedicate my resources to creating and supporting research institutes around the world tackling the conventions of our era.
 
 &nbsp;
 ### education
 
-Education has turned from obtaining knowledge and skills into a race to who gets the best insurance plan. As the number of children in developed countries decrease, there is a desperate need to train high skill workers who can create massive value with less people if we want human progress to continue. We need to take a radically new approach to preparing future generations. 
+Education has turned from obtaining knowledge and skills into a race to who gets the best insurance plan. As the world population is expected to plateau towards the end of the century, there is a desperate need to train high skill workers who can create massive value with less people if we want human progress to continue. We need to take a radically new approach to preparing future generations. 
 
 &nbsp;
 ### decenteralized-industry

@@ -122,10 +122,9 @@ permalink: /Interests/
     - building a network of AIs that serve as agents that can communicate with each other - singularity-net 
     - credit system for contributing datasets - marketocean
     - sophia robot!
-- both movements are interesting and one step towards the correct direction
-- taking the right step forward
+- movements are interesting and one step towards the correct direction
 - interesting development to keep an eye on time-to-time
-- honestly, a bit wacky cannot see the timeline 
+- honestly, a bit wacky cannot predict the timeline 
 - pro
     - potential to solve many problems
 - con

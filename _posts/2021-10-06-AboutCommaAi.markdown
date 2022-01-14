@@ -5,7 +5,7 @@ date:   2021-10-06
 categories: Companies
 ---
 
-I think comma.ai is a great company that nobody talks about. 
+Comma.ai is a great company that nobody talks about. 
 
 &nbsp;
 
