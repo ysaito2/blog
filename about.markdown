@@ -22,3 +22,17 @@ permalink: /about/
     - mahattan project - development of atomic bomb in only 6 years (1939~1945) 
     - apollo project - landing a man on moon within a decade
 - how do you develop developed countries?
+
+&nbsp;
+
+### what do i want to be 
+- hacker engineer with expertise in multiple domains
+    - strong background in software/algorithms
+    - molecular dynamics 
+    - data science 
+    - structural engineering
+    - biology
+    - electronics 
+    - reinforcement learning
+- great scientist 
+- great entreprenuer - practical to be able to combine good technology with good business model

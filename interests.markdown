@@ -124,6 +124,7 @@ permalink: /Interests/
 - pro
     - taking the right step forward
     - interesting development to keep an eye on time-to-time
+    - potential to solve many problems
 - con
     - i think we are still a long way ahead
     - no idea how they are financing (and making money) on the projects
@@ -132,10 +133,10 @@ permalink: /Interests/
 &nbsp;
 
 ## reinforcement learning 
-- i think opportunity will come up when FSD is solved and many applications for real-world AI immerges
 - tesla/comma.ai are ahead of the pack for real world systems, deepmind for solving hard science problems
 - many applications of vision-based AI systems
 - projects run by deepmind have potential to have massive improvements to many industries
+- i think opportunity will come up when FSD is solved and many applications for real-world AI immerges
 - pro
     - opportunity to make difference in many industries
     - lots of energy in the domain 

@@ -13,11 +13,6 @@ It is also easy to fall into thinking in terms of incremental progress without l
 &nbsp;
 
 ## 2020 - 2030 
-### Keywords
-web3, starship, autonomous driving, cryptocurrency 
-
-### Notable events
-- I think this 
 
 
 ## 2030 - 2040
