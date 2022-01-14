@@ -7,7 +7,6 @@ permalink: /Interests/
 ## cryptocurrency - cardano 
 - rising platform, **now would be the best time to go on and do something**
 - if we do NOT transfer from a open-free economy to a micropayment economy where people are given credit for their work, all industries will follow music/journalism wipe out a middle-class
-
 - Pro: 
     - i think the community is asking all the right questions
     - lots of great software engineers are in the community 
@@ -15,10 +14,19 @@ permalink: /Interests/
 - Con: 
     - way to monetize the business is unclear
 
+&nbsp;
+
 ## AR+VR+metaverse - unreal engine 
 - another rising platform, a lot of developments happening now like development of a new programming language 
 - cool platform to build something on
 - even though it was fun, I realized fiddling around with game engines is too tedious for me!
+- pro
+    - fun to play around with 
+- con 
+    - don't see a huge social impact 
+    - pretty tedious
+
+&nbsp;
 
 ## space exploration - spacex 
 - starship development progress should be followed closely 
@@ -26,13 +34,16 @@ permalink: /Interests/
 - opportunity should rise with low cost + more human launches than every before 
 - i feel many people are waiting opportunity to make EVA spacesuits
 - cheap/mass produced life support systems should be next after reducing costs of getting mankind to space
-- surprisingly, no concrete plans for mars colonization to date
+- we want to sent people to space, not robots, to create jobs and industries, which will push for investments in infrastructure
+- surprisingly, no concrete plans for mars colonization to date even by mars society 
 - space elevator commitee in japan have everything figured out (we can use existing materials for the cables, currently its just too expensive!)
 - area i would like to join in future, have to figure out exactly *how*
 - Pro 
     - can be part of creating history, generation will be remembered as first generation to build a civilization on mars! 
 - Con
     - currently there is still limited commercial opportunities
+
+&nbsp;
 
 ## renewable energy 
 - **regulations choose the winner**
@@ -45,6 +56,13 @@ permalink: /Interests/
     - Microgrids would be one area that would be done bottom up, but current battery/solar technology means it can only be done in developing countries **with low power needs**
     - Microgrids is also an area that will be software mediated 
 - worth noting Japan is the only country with two seperate systems between west and east, and 3000 islands so its a interesting case where many foreign companies are focusing on (the japanese energy startup community is a diverse and international)
+- pro 
+    - massive business opportunity to overhaul existing global energy infrastructure 
+- con
+    - highly sensitive to regulations and political climate 
+    - very competitive space with every niche filled already
+
+&nbsp;
 
 ## biology 
 - smartest academics are currently working on neuroscience 
