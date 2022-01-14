@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-## my values 
+## my values
+I have listed five key areas that I will dedicate my career. 
+
+&nbsp;
 ### engineering
 
 Amongst the exciting achievements have been to be done, I believe this century will be remembered as the first century when humanity set out to colonize space. I want my role to build technology, like low cost spacesuit, life support systems, space habitats, to enable millions to live, work, and raise their families outside of our planet. We've made extraordinary progress in the last two centuries. We need to move away from incremental progress and go back to setting ambition goals. 
@@ -12,7 +15,7 @@ Amongst the exciting achievements have been to be done, I believe this century w
 &nbsp;
 ### science
 
-Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but future generations to build new technologies that push the frontier of mankind. 
+Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but future generations to build new technologies that push the frontier of mankind. I will dedicate my resources to creating and supporting research institutes around the world tackling the challenging questions of the era.  
 
 &nbsp;
 ### education
@@ -22,7 +25,7 @@ Education has turned from obtaining knowledge and skills into a race to who gets
 &nbsp;
 ### decenteralized-industry
 
-Technological advancements like biomass-chemical industry, microgrids, and 3D printers are projecting a future where we create many small scale factories to generate a secondary source of income for rural/remote parts of the world. I am excited for the opportunities of decenteralized industry to lift up the standard of living in rural and urban parts of the world. 
+Technological advancements like biomass-chemical industry, microgrids, and 3D printers are projecting a future where we can create many small scale factories to generate a secondary source of income for rural/remote parts of the world. I am excited for the opportunities of decenteralized industry to lift up the standard of living in rural/remote parts of the world. 
 
 &nbsp;
 ### human-centeric-industry

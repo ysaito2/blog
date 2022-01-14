@@ -4,7 +4,7 @@ title: Timeline
 permalink: /Timeline/
 ---
 
-For planning out my career, I realized it would be a good excercise to layout key events that I believe will happen throughout this century, starting from current (2022). I know predicting the future is futile since its *never right*, but as Eisenhower said, "In preparing for battle, I have always found that plans are useless but planning is indispensible". 
+For planning out my career, I realized it would be a good exercise to layout key events that I believe will happen throughout this century, starting from current (2022). I know predicting the future is futile since its *never right*, but as Eisenhower said, "In preparing for battle, I have always found that plans are useless but planning is indispensible". 
 
 &nbsp;
 
