@@ -13,11 +13,7 @@ I believe this is the single characteristic that differentiates Elon from any ot
 
 &nbsp;&nbsp;
 
-I've decided to call Elon's systematic approach "Elongineering" (I tried other words like Elonpreneurship, but they just don't have the right ring). My ambition is to get the terminology on the Merriam-Webster dictionary by 2030! I will get back to why this goal isn't as silly as it sounds. 
-
-&nbsp;&nbsp;
-
-I'd like to mention that I do believe some are born with innate skills, like physicist John von Neumann, who apparently could recite entire books out of memory(!) and many researchers who lead the way in the [development of the digital era](https://www.amazon.com/Dream-Machine-M-Mitchell-Waldrop/dp/1732265119). But its also worth noting that great men and women who accomplished extraordinary achievements during their careers have made excruciating efforts (check [Talent is overrated](https://geoffcolvin.com/books/talent-is-overrated/)). Looking at Elon's bio, there really isn't anything that stands out, up until selling his first company. Unlike the geniuses that appear in the "Dream Machine", I don't think he was born with any special talent. I hope you will keep reading with this in mind. 
+I've decided to call Elon's systematic approach "Elongineering" (I tried other words like Elonpreneurship, but they just don't have the right ring!). My ambition is to get the terminology on the Merriam-Webster dictionary by 2030! I will get back to why this goal isn't as silly as it sounds. 
 
 &nbsp;&nbsp;
 
@@ -42,19 +38,19 @@ How do we study Elongineering? As starters, there is a great book by Eric Berger
 
 &nbsp;&nbsp;
 
-Another book to read would be "The Case for Mars" by Robert Zubrin, the current President and Founder of Mars Society (which Elon Musk is a member). The engineering decisions in Space X is clearly influenced by ideas in the book, like a Mars mission with no reliance on LEO+lunar infrastructure ("Mars Direct" approach) and short development cycle ("If you want to get humans to Mars, you can't do it in thirty years; you can't do it in twenty years - ten years is the most you can hope for"). I may be overreaching, but it seems Elon has applied the engineering philosophies in the book not only for SpaceX, but also in his other ventures. 
+Another book to read would be "The Case for Mars" by Robert Zubrin, the current President and Founder of Mars Society (which Elon Musk is a member). The engineering decisions in Space X is clearly influenced by ideas in the book, like a Mars mission with no reliance on orbital infrastructure ("Mars Direct" approach). The book also advocates for short development cycles, "If you want to get humans to Mars, you can't do it in thirty years; you can't do it in twenty years - ten years is the most you can hope for", which SpaceX is famous for. I may be overreaching, but it seems Elon has applied the engineering philosophies in the book not only for SpaceX, but also in his other ventures. 
 
 &nbsp;&nbsp;
 
-I have realized there are glimps of influences by engineering history, like Kelly Johnson, founder of Lockheed Martin's Skunk Works, who advocated for a small elite engineers to tackle audacious projects and keeping the engineers and manufactoring from stone-throw away from each other, like how it is setup at Space-X Hawthrone office. We can also see influences from Paul MacCready, inventor of the human-propelled glider, who designed his glider to be cheap and easy to manufacture such that he can handle 10 crashes a day, which is the approach SpaceX is taking with the Starship development. 
+I have realized there are glimps of influences by engineering history, like Kelly Johnson, founder of Lockheed Martin's Skunk Works, who advocated for a small elite engineers to tackle audacious projects. He also kept his engineers and manufactoring from stone-throw away from each other, like how it is setup at Space-X Hawthrone office. We can also see influences from Paul MacCready, inventor of the human-propelled glider, who designed his glider to be cheap and easy to manufacture such that he can handle 10 crashes a day, which is the approach SpaceX is taking with the Starship development. 
 
 &nbsp;&nbsp;
 
-I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the [white paper](https://www.biorxiv.org/content/10.1101/703801v1) published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and the methods they took to solve them. The annoucements on youtube show a trajectory of the company positioning its identiity, where the earlier annoucement made by the company is clearly a period of "feeling" around the problem. The most recent announcement shows a more clear direction of the company. 
+I also found that following the trajectory of Neurolink is a great resource for studying "Elongineering". Starting from the [white paper](https://www.biorxiv.org/content/10.1101/703801v1) published sometime around 2018, diving into the references of the paper, its easy to follow how the Neurolink team identified immediate problems and the methods they took to solve them. 
 
 &nbsp;&nbsp;
 
-I'm having trouble finding great resources for Tesla, and other "smaller" projects like Boring company, online education for kids (forgot the name), Hyperloop, etc. I guess its more challenging to draw a clear trajectory for Tesla since Elon joined the company as an engineer and later became the CEO. The other smaller projects are "lets try this cool idea", more of a novelty rather than projects focused on solving a urgent/audacious problem. 
+I'm having trouble finding great resources for Tesla, and other "smaller" projects like Boring company, online education for kids (forgot the name), Hyperloop, etc. I guess its more challenging to draw a clear trajectory for Tesla since Elon joined the company as an engineer and later became the CEO. I find the other smaller projects to be more of a novelty ("lets try this cool idea") rather than projects focused on solving a urgent/audacious problem. 
 
 &nbsp;&nbsp;
 
