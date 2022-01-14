@@ -10,12 +10,12 @@ I have listed five key areas that I believe are the most important during my lif
 &nbsp;
 ### engineering
 
-Amongst the exciting achievements have been to be done, I believe this century will be remembered as the first century when humanity set out to colonize space. I want my role to build technology, like low cost spacesuit, life support systems, space habitats. This developments will enable millions to live, work, and raise their families outside of our planet. We've made extraordinary progress in the last two centuries. We need to move away from incremental progress and go back to setting ambition goals. 
+Amongst the exciting achievements have been to be done, I believe this century will be remembered as the first century when humanity set out to colonize space. I want to design/manufacture technologies to enable millions to live, work, and raise their families outside of our planet. We've made extraordinary progress in the last two centuries. We need to move away from incremental progress and go back to setting ambition goals. 
 
 &nbsp;
 ### science
 
-Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but future generations to build new technologies that push the boundary to realize what was thought to be *impossible* is *possible*. I will dedicate my resources to creating and supporting research institutes around the world tackling the challenging questions of our era.  
+Science allows us define the boundaries of what's possible. I believe it is important to continue pushing forward with our understanding of the natural world to create a foundation not only for ourselves, but fir future generations to build new technologies that push the boundary to realize what was thought to be *impossible* is *possible*. I will dedicate my resources to creating and supporting research institutes around the world tackling the conventions of our era.
 
 &nbsp;
 ### education
