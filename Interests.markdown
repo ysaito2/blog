@@ -115,9 +115,19 @@ permalink: /Interests/
 &nbsp;
 
 ## AGI 
-- Ben A. building a network of AI, 
-- credit system for contributing datasets
+- Ben Goertzel 
+    - building a network of AIs that serve as agents that can communicate with each other - singularity-net 
+    - credit system for contributing datasets - marketocean
+    - sophia robot!
+- both movements are interesting and one step towards the correct direction
 - honestly, a bit wacky cannot see the timeline 
+- pro
+    - taking the right step forward
+    - interesting development to keep an eye on time-to-time
+- con
+    - i think we are still a long way ahead
+    - no idea how they are financing (and making money) on the projects
+    - i feel the deepmind approach of using ai to tackle hard science problems seem the right way
 
 &nbsp;
 
@@ -125,7 +135,7 @@ permalink: /Interests/
 - i think opportunity will come up when FSD is solved and many applications for real-world AI immerges
 - tesla/comma.ai are ahead of the pack for real world systems, deepmind for solving hard science problems
 - many applications of vision-based AI systems
-- projects run by deepmind have potential to cascade to many industries
+- projects run by deepmind have potential to have massive improvements to many industries
 - pro
     - opportunity to make difference in many industries
     - lots of energy in the domain 
