@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /About/
 ---
 
 ## my values
@@ -25,22 +25,22 @@ Education has turned from obtaining knowledge and skills into a race to who gets
 &nbsp;
 ### decenteralized-industry
 
-Technological advancements like biomass-chemical industry, microgrids, and 3D printers are projecting a future where we can create many small scale factories to generate a secondary source of income for rural/remote parts of the world. I am excited for the opportunities of decenteralized industry to lift up the standard of living in rural/remote parts of the world. 
+Technological advancements like biomass-chemical industry, microgrids, and 3D printers are projecting a future where local communities can create many small scale factories to generate a secondary source of income in rural/remote parts of the world. I am excited for the opportunities of decenteralized industries to lift up the standard of living around the world. 
 
 &nbsp;
 ### human-centeric-industry
 
-If we continue our current trajectory, we are heading into a future where *nobody can make a living with their jobs* due to networked computers. We need to course-correct to create a society which gives credit to contributing data, knowledge, and work to improve the algorithms that will run our society. I strongly believe *protecting the market dynamics should be prioritized* above universal basic income. The faster the micropayment economy is implemented, the more industries we can keep thriving with opportunities and jobs for all.
+If we continue our current trajectory, we are heading into a future where *nobody can make a living with their jobs* due to networked computers. We need to course-correct to create a society which gives credit to those contributing data, knowledge, and work to improve the algorithms that will run our society. I strongly believe *protecting the market dynamics should be prioritized* above universal basic income. 
 
 &nbsp;
 
 ## who I respect 
- Patrick Collison, George Hotz, Josiah Zayner, Jaron Lanier, Elon Musk, Henry Ford, Walt Disney, Ted Turner, Intel trinity, Bill Gates, Alan Kay, Robert Zubrich, Charles Hoskinson, Shibusawa Eichi, John D. Rockefeller
+ Patrick Collison, George Hotz, Josiah Zayner, Jaron Lanier, Elon Musk, Alan Kay, Robert Zubrich, Charles Hoskinson, Shibusawa Eichi, John D. Rockefeller, Kelly Thompson, Ted Turner, Bill Gates, Henry Ford, Bret Victor
 
 &nbsp;
 
 ## academia
- Marvin Minsky, Steven Pinker, Niel Ferguson, Richard Feynman, Miyzaki Ichisada, 
+ Marvin Minsky, Steven Pinker, Niel Ferguson, Richard Feynman, Miyzaki Ichisada, Gerry Jay Sussman, John Hughes
 
 &nbsp;
 
@@ -49,6 +49,7 @@ If we continue our current trajectory, we are heading into a future where *nobod
     - in the current projection, computers will have disasterous effects on remaining industries
 - why were "moonshot" projects in the previous century so successful?
     - xerox parc - 9 key technologies for personal computers created by 25 researchers, $10M a year for 5 years 
+        - build on previous *8 years* of development in ARPA
     - mahattan project - development of atomic bomb in only 6 years (1939~1945) 
     - apollo project - landing a man on moon within a decade
 - how do you develop developed countries? 

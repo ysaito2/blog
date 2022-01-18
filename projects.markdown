@@ -36,24 +36,24 @@ I believe one solution to develop *developed* countries is for future entreprene
 
 ### project science
 
-Build a world-class material science/microbiology R/D center to push the envelope of what's possible
+Build+fund a world-class material science/microbiology R/D center to push the envelope of what's possible
 
 &nbsp;
 
-Background
+**Background**
 
 The bottleneck for many audacious projects like fusion reactors, space elevators, and low cost desalination technology are usually constrained by either existing materials being too expensive or non-existant. Pushing the frontier of material science will have ripple effects on all existing industries, creating new companies and industries. 
 
 &nbsp;
 
-Concept
+**Concept**
 
 - low budget commited for ~10 year period
 - small number of elite scientists (20-30) gathered from worldwide 
 
 &nbsp;
 
-KPIs
+**KPIs**
 
 - five nobel prizes from the institution within 5 decades 
 
@@ -65,11 +65,11 @@ fix education by creating a flagship school
 
 &nbsp;
 
-Background
+**Background**
 
 Education has made little to no progress in the last 100 years. Many bright minds have taken a shot at fixing it, but has not been successful. 
 
-KPIs
+**KPIs**
 
 TBD
 
@@ -79,11 +79,11 @@ TBD
 
 Decenteralizing the chemical industry reliant on fossil fuel to a biomass chemical industry (japan academia Kyushuu University prof)
 
-Background
+**Background**
 
 As jobs and industries become more concentrated in the cities, since Henry Ford's times, we need to create decenteralized industries for small towns/farms to create income around the world. This would alleviate poverty/social instability around the world. 
 
-Reason
+**Reason**
 
 - help reduce the reliance on unstable global trade network by producing/consuming on site
 - create opportunities and jobs in rural parts of the world
@@ -96,11 +96,11 @@ Reason
 
 implement the micro-finance system to give credit to people generating data ( how to implement in manufactoring and other industries)
 
-Background
+**Background**
 
 Networked computers had destroyed the journalism and music industries by wiping out the middle classes based on the open/free concept of the world-wide web. This trend will cascade to all other industries as time passes with technological advancement (do more with less). The question is "How do you make money when everything is free?". Particularly worrisome is the impact to manufactoring in the far east asia, where we are already seeing the adoption of 3D printers and autonomous robots. There needs to be a system implemented where people are given credit for contributing their data/knowledge to automate/improve the system. 
 
-Reason
+**Reason**
 
 - there needs to be a system where workers generating data are given credit to automate processes in the manufactoring line
 - as robots generate value, humans should be given credit based on productivity increases
