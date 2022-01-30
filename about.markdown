@@ -10,7 +10,7 @@ I have listed five key areas that I believe are the most important during my lif
 &nbsp;
 ### engineering
 
-This century will be remembered as the first century when humanity set out to colonize space. I want to design/manufacture technologies to enable millions to live, work, and raise their families outside of our planet. I believe we need to follow the trajectory of the last two decades by tackling the impossible by creating technologies, companies, and even industries. 
+This century will be remembered as the first century when humanity set out to colonize space. I want to design/manufacture technologies to enable millions to live, work, and raise their families outside of our planet. I believe we need to follow the trajectory of the last two centuries by tackling the impossible by creating technologies, companies, and even industries. 
 
 &nbsp;
 ### science
