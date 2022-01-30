@@ -9,7 +9,7 @@ Comma.ai is a great company that nobody talks about.
 
 &nbsp;
 
-Founded in 2015 by George Hotz, the company design/built/sells electronic hardware (i.e. commas) which is attached to the dashboard of a passenger car by a harness. Slapping down $2000, the driver enjoys a vastly superior driver assistance system than what is provided by the OEM. (Currently they support more than 140 car models). Openpilot is an open source software that runs on their hardware. 
+Founded in 2015 by George Hotz, the company design/built/sells electronic hardware (i.e. commas) which is attached to the dashboard of a passenger car via a harness. Slapping down $2000, the driver enjoys a vastly superior driver assistance system than what is provided by the OEM. (Currently they support more than 140 car models). Openpilot is an open source software that runs on their hardware. 
 
 &nbsp;
 
@@ -37,11 +37,11 @@ First, its their technology. Comma has defined self-driving as a system which, g
 
 &nbsp;
 
-Doing a deep-dive in the difference in engineering decisions made in the two companies would be super interesting, but I currently don't have the expertise to run such a rigorous analysis. Tesla is trying to solve full self-driving in the shortest path, while comma is building a natural-feeling system for the driver (hence, their slogan "make driving chill"). Both companies are pursing an end-to-end solution based on vision only. Both are building what users *really* want. But it seems they have defined their users' needs differently. 
+Doing a deep-dive in the difference in engineering decisions made in the two companies would be super interesting, but I currently don't have the expertise to run such a rigorous analysis. But it seems that compared to comma, Tesla's approach is less transferable to other real-world AI problems, since the model needs information of the environment like stop signs, traffic lights, and cones fed into it. George Hotz has also pointed out that the placement of the vehicle inside a lane in a Tesla feels unnatural compared to a human driver. Whatever the differences are, both companies are pursing an end-to-end solution based on vision only. Both are building what users *really* want. However, it seems they have defined their users' needs differently. 
 
 &nbsp;
 
-Second, its their business model. Tesla sells their car and the self-driving system as a whole package. Comma sells electronic hardware. Understanding that Tesla's mission is to accelerate the world into a renewable future, its still worth noting that the automotive industry runs on a slim profit margin (10%-20%) compared to other industries, like pharmaceuticals (70%+), electronics (30%-50%), and software (40%-80%). Electric cars exasperate this trend due to the high raw material costs; at a low price point the profit margin becomes *laser* thin. I think Tesla will slowly pivot away from building electric cars to high margin businesses like energy storage, processors, and manufacturing equipment throughout the coming decades. Anyways, comma has placed herself in a good market. 
+Second, its their business model. Tesla sells cars and Comma sells electronic hardware. Understanding that Tesla's mission is to accelerate the world into a renewable future, its still worth noting that the automotive industry runs on a slim profit margin (10%-20%) compared to other industries, like pharmaceuticals (70%+), electronics (30%-50%), and software (40%-80%). Electric cars exasperate this trend due to the high raw material costs; at a low price point the profit margin becomes *laser* thin. I think Tesla will slowly pivot away from building electric cars to high margin businesses like energy storage, processors, and manufacturing equipment throughout the coming decades. Anyways, comma has placed herself in a good market. 
 
 &nbsp;
 
@@ -57,8 +57,4 @@ My point of this post is that I think comma.ai should be studied as a textbook e
 
 &nbsp;
 
-So here's the takeaway: create an environment where you can focus on solving problems that matter. The shortest path to solving big problems is by generating revenue and scaling. 
-
-&nbsp;
-
-And if you need to borrow billions of $$$ to generate revenue, you are probably wrong in a big way. 
+So here's the takeaway: create an environment where you can focus on solving problems that matter. The shortest path to solving big problems is by generating revenue and scaling. And if you need to borrow billions of $$$ to generate revenue, you are probably wrong in a big way. 
