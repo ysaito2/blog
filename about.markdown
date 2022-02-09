@@ -10,7 +10,7 @@ I have listed five key areas that I believe are the most important during my lif
 &nbsp;
 ### engineering
 
-This century will be remembered as the first century when humanity set out to colonize space. I want to design/manufacture technologies to enable millions to live, work, and raise their families outside of our planet. I believe we need to follow the trajectory of the last two centuries by tackling the impossible by creating technologies, companies, and even industries. 
+This century will be remembered as the first century when humanity set out to colonize space. I will built technologies to enable millions to live, work, and raise their families outside of our planet. 
 
 &nbsp;
 ### science
@@ -20,17 +20,17 @@ It is important to continue pushing forward with our understanding of the natura
 &nbsp;
 ### education
 
-Education has turned from obtaining knowledge and skills into a race to who gets the best insurance plan. As the world population is expected to plateau towards the end of the century, there is a need to train high skilled workers who can create massive value if we want human progress to continue. We need a new approach to preparing future generations. 
+Education has turned from obtaining knowledge and skills into a race to who gets the best insurance plan. As the world population is expected to plateau towards the end of the century, there is a need to train high skilled workers who can create massive value if we want human progress to continue. 
 
 &nbsp;
 ### decenteralized-industry
 
-Technological advancements like biomass-chemical industry, microgrids, blockchain, and 3D printers are projecting a future where rural/remote communities can create many small-scale factories, infrastructure, and even industries to generate a secondary source of income. I am excited for the opportunities of decenteralized industries to lift up the standard of living around the world. 
+Technological advancements in synthetic bilogy, microgrids, blockchain, and 3D printers are projecting a future where rural/remote communities can create  small-scale factories and infrastructure to generate a secondary source of income. I am excited for the opportunities of decenteralized industries to lift up the standard of living around the world. 
 
 &nbsp;
 ### human-centeric-industry
 
-If we continue our current trajectory, we are heading into a future where *nobody can make a living with their jobs* due to technical advancement and networked computers. We need to course-correct to create a society which gives credit to those contributing data, knowledge, and work to improve the algorithms that will run our society. I strongly believe *protecting the market dynamics should be prioritized* above universal basic income. 
+If we continue our current trajectory, we are heading into a future where *nobody can make a living with their jobs* due to networked computers and technical advancement. We need to course correct to create a society which gives credit to those contributing data, knowledge, and work to improve the algorithms that will run our society. I strongly believe *protecting the market dynamics should be prioritized* above universal basic income. 
 
 &nbsp;
 
@@ -40,7 +40,7 @@ If we continue our current trajectory, we are heading into a future where *nobod
 &nbsp;
 
 ## academia
- Marvin Minsky, Steven Pinker, Niel Ferguson, Richard Feynman, Miyzaki Ichisada, Gerry Jay Sussman, John Hughes
+ Marvin Minsky, Steven Pinker, Niel Ferguson, Richard Feynman, Miyzaki Ichisada
 
 &nbsp;
 
