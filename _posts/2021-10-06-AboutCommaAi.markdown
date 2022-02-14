@@ -57,4 +57,4 @@ My point of this post is that I think comma.ai should be studied as a textbook e
 
 &nbsp;
 
-So here's the takeaway: create an environment where you can focus on solving problems that matter. The shortest path to solving big problems is by generating revenue and scaling. And if you need to borrow billions of $$$ to generate revenue, you are probably wrong in a big way. 
+So here's my takeaway: create an environment where you can focus on solving problems that matter. The shortest path to solving big problems is by generating revenue and scaling. And if you need to borrow billions of $$$ to generate revenue, you are probably wrong in a big way. 
