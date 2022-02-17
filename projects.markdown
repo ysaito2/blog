@@ -98,7 +98,7 @@ implement the micro-finance system to give credit to people generating data ( ho
 
 **Background**
 
-Networked computers had destroyed the journalism and music industries by wiping out the middle classes based on the open/free concept of the world-wide web. This trend will cascade to all other industries as time passes with technological advancement (do more with less). The question is "How do you make money when everything is free?". Particularly worrisome is the impact to manufactoring in the far east asia, where we are already seeing the adoption of 3D printers and autonomous robots. There needs to be a system implemented where people are given credit for contributing their data/knowledge to automate/improve the system. 
+Networked computers had destroyed the journalism and music industries by wiping out the middle classes based on the open/free concept of the world-wide web. This trend will cascade to all other industries as time passes with technological advancement (do more with less). The question is "How do you make money when everything is free?". Particularly worrisome is the impact to manufactoring in the Far East, where we are already seeing the adoption of 3D printers and autonomous robots. There needs to be a system implemented where people are given credit for contributing their data/knowledge to automate/improve the system. 
 
 **Reason**
 

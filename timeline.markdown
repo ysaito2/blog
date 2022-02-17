@@ -1,26 +1,17 @@
----
-layout: page
-title: Timeline 
-permalink: /Timeline/
----
-
-For planning out my career, I realized it would be a good exercise to layout key events that I believe will happen throughout this century, starting from current (2022). I know predicting the future is futile since its *never right*, but as Eisenhower said, "In preparing for battle, I have always found that plans are useless but planning is indispensible". 
-
-&nbsp;
-
-It is also easy to fall into thinking in terms of incremental progress without long term projections decades ahead. Alan Kay recommends taking out an idea to 30 years ahead where there is no possibiity of increment from present, and reversing back to figure out what technologies need to be developed. (this is how he took the dynabook to an iPad)
-
-&nbsp;
-
-
+Timeline
 ## 2020 - 2030 
 
+&nbsp;
 
 ## 2030 - 2040
+- At the early part of the decade, with Starship launching at regular intervals, there has never been a time in history where LEO is more accessible to people (and cargo!). During this timeframe, opportunities in commercial space would explode
+- Midway through the decade, full-self driving should be largely solved at least in North America. Coast-to-coast road trips with zero disengagements should be a norm by this time.  
+
+&nbsp;
 
 
 ## 2040 - 2050 
-
+- 
 
 ## 2050 - 2060 
 
