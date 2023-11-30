@@ -1,8 +1,4 @@
----
-layout: page
 title: Life plan
-permalink: /Life plan/
----
 
 |date|edit|
 |----|----|
