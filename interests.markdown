@@ -1,8 +1,4 @@
----
-layout: page
-title: Interests
-permalink: /Interests/
----
+Interests
 
 ## cryptocurrency - cardano 
 - rising platform, **now would be the best time to go on and do something**
