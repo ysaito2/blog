@@ -1,8 +1,5 @@
----
-layout: page
-title: Projects
-permalink: /Projects/
----
+Projects
+
 
 I identified six projects that I want to work on during my lifetime. Each project will be allocated a 10-year timeframe. The projects will have periodic reviews to make sure the project is progressing accordingly. 
 
